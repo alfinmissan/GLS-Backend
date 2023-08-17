@@ -1,0 +1,5678 @@
+[
+ {
+  "Text": "Net Weight",
+  "Version": 1,
+  "Translation Id": "A1",
+  "Translation": "\u0627\u0644\u0648\u0632\u0646 \u0627\u0644\u0635\u0627\u0641\u064a ... \u063a\u0631\u0627\u0645"
+ },
+ {
+  "Text": "Ingredients",
+  "Version": 1,
+  "Translation Id": "A2",
+  "Translation": "\u0627\u0644\u0645\u0643\u0648\u0646\u0627\u062a:"
+ },
+ {
+  "Text": "Packing Date",
+  "Version": 1,
+  "Translation Id": "A3",
+  "Translation": "\u062a\u0627\u0631\u06cc\u062e \u0627\u0644\u0625\u0646\u062a\u0627\u062c "
+ },
+ {
+  "Text": "Best Before",
+  "Version": 1,
+  "Translation Id": "A4",
+  "Translation": "\u062a\u0627\u0631\u06cc\u062e \u0627\u0644\u0625\u0646\u062a\u0647\u0627\u0621 "
+ },
+ {
+  "Text": "Store in a dry place",
+  "Version": 1,
+  "Translation Id": "5",
+  "Translation": null
+ },
+ {
+  "Text": "Please store in a cool dry place in an airtight container",
+  "Version": 1,
+  "Translation Id": "5a",
+  "Translation": null
+ },
+ {
+  "Text": "Producer - Ahmad Tea Ltd. 1 Wood Street, London, EC2V 7WS England",
+  "Version": 1,
+  "Translation Id": "A6",
+  "Translation": "\u0634\u0627\u064a \u0623\u062d\u0645\u062f (\u0644\u0646\u062f\u0646) "
+ },
+ {
+  "Text": "Brew for ...-... minutes",
+  "Version": 1,
+  "Translation Id": "A7",
+  "Translation": "\u062a\u062e\u0645\u0631 \u0644\u0645\u062f\u0629 ...  \u0627\u0644\u06cc ... \u062f\u0642\u0627\u0626\u0642"
+ },
+ {
+  "Text": "Pour on cold water and brew for 5 minutes (Cold Brew)",
+  "Version": 1,
+  "Translation Id": "7a",
+  "Translation": null
+ },
+ {
+  "Text": "Brew for 5 minutes (Herbals)",
+  "Version": 1,
+  "Translation Id": "7b",
+  "Translation": null
+ },
+ {
+  "Text": "Brew 1 teabag in 200ml hot water for 5 minutes",
+  "Version": 1,
+  "Translation Id": "7c",
+  "Translation": null
+ },
+ {
+  "Text": "Put 2g of Matcha in a cup. Add 200ml of water heated to 80-90\u00b0C and stir rapidly for 1-2 minutes, ideally with a whisk.",
+  "Version": 1,
+  "Translation Id": "7d",
+  "Translation": null
+ },
+ {
+  "Text": "Brew for \u2026..... minutes (Black / Green Loose Tea) - Only for CZ / SK",
+  "Version": 1,
+  "Translation Id": "7e",
+  "Translation": null
+ },
+ {
+  "Text": "Importer:",
+  "Version": 1,
+  "Translation Id": "A8",
+  "Translation": null
+ },
+ {
+  "Text": "Producer - Russia factory",
+  "Version": 1,
+  "Translation Id": "9a",
+  "Translation": null
+ },
+ {
+  "Text": "Producer - Sri Lanka",
+  "Version": 1,
+  "Translation Id": "9b",
+  "Translation": null
+ },
+ {
+  "Text": "Producer - China",
+  "Version": 1,
+  "Translation Id": "9c",
+  "Translation": null
+ },
+ {
+  "Text": "Producer - Poland",
+  "Version": 1,
+  "Translation Id": "9d",
+  "Translation": null
+ },
+ {
+  "Text": "Producer - UAE",
+  "Version": 1,
+  "Translation Id": "9e",
+  "Translation": null
+ },
+ {
+  "Text": "For Best Before Date: See side panel",
+  "Version": 1,
+  "Translation Id": "10",
+  "Translation": null
+ },
+ {
+  "Text": "Best before date: see base",
+  "Version": 1,
+  "Translation Id": "10a",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea",
+  "Version": 1,
+  "Translation Id": "11",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea (Loose)",
+  "Version": 1,
+  "Translation Id": "11b",
+  "Translation": null
+ },
+ {
+  "Text": "Tea",
+  "Version": 1,
+  "Translation Id": "12",
+  "Translation": null
+ },
+ {
+  "Text": "Teabags",
+  "Version": 1,
+  "Translation Id": "13",
+  "Translation": null
+ },
+ {
+  "Text": "Foil Teabags",
+  "Version": 1,
+  "Translation Id": "13a",
+  "Translation": null
+ },
+ {
+  "Text": "Black Teabags",
+  "Version": 1,
+  "Translation Id": "13b",
+  "Translation": null
+ },
+ {
+  "Text": "Green teabags",
+  "Version": 1,
+  "Translation Id": "13c",
+  "Translation": null
+ },
+ {
+  "Text": "Tagged",
+  "Version": 1,
+  "Translation Id": "14",
+  "Translation": null
+ },
+ {
+  "Text": "Tagless",
+  "Version": 1,
+  "Translation Id": "15",
+  "Translation": null
+ },
+ {
+  "Text": "Black Tea in (tagless) Teabags",
+  "Version": 1,
+  "Translation Id": "16",
+  "Translation": null
+ },
+ {
+  "Text": "Black Tea in (tagged) Teabags",
+  "Version": 1,
+  "Translation Id": "17",
+  "Translation": null
+ },
+ {
+  "Text": "Black Tea in (enveloped) Teabags",
+  "Version": 1,
+  "Translation Id": "18",
+  "Translation": null
+ },
+ {
+  "Text": "Teabags (string & tag)",
+  "Version": 1,
+  "Translation Id": "19",
+  "Translation": null
+ },
+ {
+  "Text": "Teabags (tagless)",
+  "Version": 1,
+  "Translation Id": "20",
+  "Translation": null
+ },
+ {
+  "Text": "Teabags (enveloped)",
+  "Version": 1,
+  "Translation Id": "21",
+  "Translation": null
+ },
+ {
+  "Text": " ... x ...g Teabags (Tagged)",
+  "Version": 1,
+  "Translation Id": "22",
+  "Translation": null
+ },
+ {
+  "Text": " ... x ...g Teabags (Tagless)",
+  "Version": 1,
+  "Translation Id": "22a",
+  "Translation": null
+ },
+ {
+  "Text": " ... x ...g Teabags (Enveloped)",
+  "Version": 1,
+  "Translation Id": "22b",
+  "Translation": null
+ },
+ {
+  "Text": " ... x ...g Teabags (Foil)",
+  "Version": 1,
+  "Translation Id": "22c",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "23",
+  "Translation": null
+ },
+ {
+  "Text": "Tea Selection",
+  "Version": 1,
+  "Translation Id": "24",
+  "Translation": null
+ },
+ {
+  "Text": "Fruit Tea Selection",
+  "Version": 1,
+  "Translation Id": "25",
+  "Translation": null
+ },
+ {
+  "Text": "Loose Tea",
+  "Version": 1,
+  "Translation Id": "26",
+  "Translation": null
+ },
+ {
+  "Text": "Big Leaf (long leaf)",
+  "Version": 1,
+  "Translation Id": "27",
+  "Translation": null
+ },
+ {
+  "Text": "Packed in Sri Lanka",
+  "Version": 1,
+  "Translation Id": "28",
+  "Translation": null
+ },
+ {
+  "Text": "Pure Ceylon Tea Packed in Sri Lanka",
+  "Version": 1,
+  "Translation Id": "28a",
+  "Translation": null
+ },
+ {
+  "Text": "Other Origin Teas Packed in Sri Lanka",
+  "Version": 1,
+  "Translation Id": "28b",
+  "Translation": null
+ },
+ {
+  "Text": "A blend of Ceylon and Other Origin Teas Packed in Sri Lanka",
+  "Version": 1,
+  "Translation Id": "28c",
+  "Translation": null
+ },
+ {
+  "Text": "A blend of Ceylon, Indian and Kenyan teas packed in Sri Lanka",
+  "Version": 1,
+  "Translation Id": "28d",
+  "Translation": null
+ },
+ {
+  "Text": "A blend of Ceylon, Indian and Kenyan teas packed in United Arab Emirates",
+  "Version": 1,
+  "Translation Id": "28e",
+  "Translation": null
+ },
+ {
+  "Text": "A blend of Ceylon and other origin teas and herbal infusions packed in Sri Lanka",
+  "Version": 1,
+  "Translation Id": "28f",
+  "Translation": null
+ },
+ {
+  "Text": "Packed in India",
+  "Version": 1,
+  "Translation Id": "29",
+  "Translation": null
+ },
+ {
+  "Text": "Packed in Ukraine",
+  "Version": 1,
+  "Translation Id": "30",
+  "Translation": null
+ },
+ {
+  "Text": "Packed in England",
+  "Version": 1,
+  "Translation Id": "31",
+  "Translation": null
+ },
+ {
+  "Text": "Packed in United Kingdom",
+  "Version": 1,
+  "Translation Id": "31a",
+  "Translation": null
+ },
+ {
+  "Text": "Blended and Packed in England",
+  "Version": 1,
+  "Translation Id": "32",
+  "Translation": null
+ },
+ {
+  "Text": "Packed in Russia",
+  "Version": 1,
+  "Translation Id": "33",
+  "Translation": null
+ },
+ {
+  "Text": "Packed in China",
+  "Version": 1,
+  "Translation Id": "34",
+  "Translation": null
+ },
+ {
+  "Text": "Country of Origin: Sri Lanka",
+  "Version": 1,
+  "Translation Id": "35",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, apple flavouring",
+  "Version": 1,
+  "Translation Id": "36",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, apricot flavouring",
+  "Version": 1,
+  "Translation Id": "37",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, blackcurrant flavouring",
+  "Version": 1,
+  "Translation Id": "38",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, cinnamon flavouring",
+  "Version": 1,
+  "Translation Id": "39",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, jasmine flavouring",
+  "Version": 1,
+  "Translation Id": "40",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, lemon & lime flavouring",
+  "Version": 1,
+  "Translation Id": "41",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, mango flavouring",
+  "Version": 1,
+  "Translation Id": "42",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, peach flavouring",
+  "Version": 1,
+  "Translation Id": "43",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, peach & passion flavouring",
+  "Version": 1,
+  "Translation Id": "44",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, raspberry flavouring",
+  "Version": 1,
+  "Translation Id": "45",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, natural strawberry flavouring",
+  "Version": 1,
+  "Translation Id": "46",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, vanilla flavouring",
+  "Version": 1,
+  "Translation Id": "47",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, fruit flavouring",
+  "Version": 1,
+  "Translation Id": "48",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, lemon flavouring",
+  "Version": 1,
+  "Translation Id": "49",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, bergamot flavouring (Teabag ingredient)",
+  "Version": 1,
+  "Translation Id": "A50a",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, bergamot flavouring (Loose tea ingredient)",
+  "Version": 1,
+  "Translation Id": "A50b",
+  "Translation": null
+ },
+ {
+  "Text": "Decaffeinated Black Tea, bergamot flavouring",
+  "Version": 1,
+  "Translation Id": "51",
+  "Translation": null
+ },
+ {
+  "Text": "Black Tea, Leaf, bergamot flavouring",
+  "Version": 1,
+  "Translation Id": "52",
+  "Translation": null
+ },
+ {
+  "Text": "Black Tea, cardamom flavouring (Teabag ingredient)",
+  "Version": 1,
+  "Translation Id": "53a",
+  "Translation": null
+ },
+ {
+  "Text": "Black Tea, cardamom flavouring (Loose tea ingredient)",
+  "Version": 1,
+  "Translation Id": "53b",
+  "Translation": null
+ },
+ {
+  "Text": "Apple Tea",
+  "Version": 1,
+  "Translation Id": "54",
+  "Translation": null
+ },
+ {
+  "Text": "Apricot Tea",
+  "Version": 1,
+  "Translation Id": "55",
+  "Translation": null
+ },
+ {
+  "Text": "Blackcurrant Tea",
+  "Version": 1,
+  "Translation Id": "56",
+  "Translation": null
+ },
+ {
+  "Text": "Cinnamon Tea",
+  "Version": 1,
+  "Translation Id": "57",
+  "Translation": null
+ },
+ {
+  "Text": "Jasmine Black Tea",
+  "Version": 1,
+  "Translation Id": "58",
+  "Translation": null
+ },
+ {
+  "Text": "Lemon & Lime Tea",
+  "Version": 1,
+  "Translation Id": "59",
+  "Translation": null
+ },
+ {
+  "Text": "Mango Tea",
+  "Version": 1,
+  "Translation Id": "60",
+  "Translation": null
+ },
+ {
+  "Text": "Peach and Passion Fruit Tea",
+  "Version": 1,
+  "Translation Id": "61",
+  "Translation": null
+ },
+ {
+  "Text": "Strawberry Tea",
+  "Version": 1,
+  "Translation Id": "62",
+  "Translation": null
+ },
+ {
+  "Text": "Vanilla Tea",
+  "Version": 1,
+  "Translation Id": "63",
+  "Translation": null
+ },
+ {
+  "Text": "Decaffeinated Earl Grey Tea",
+  "Version": 1,
+  "Translation Id": "64",
+  "Translation": null
+ },
+ {
+  "Text": "Decaffeinated Evening Tea",
+  "Version": 1,
+  "Translation Id": "65",
+  "Translation": null
+ },
+ {
+  "Text": "Decaffeinated Tea with bergamot",
+  "Version": 1,
+  "Translation Id": "66",
+  "Translation": null
+ },
+ {
+  "Text": "Raspberry Tea",
+  "Version": 1,
+  "Translation Id": "67",
+  "Translation": null
+ },
+ {
+  "Text": "Jasmine Flavoured Tea",
+  "Version": 1,
+  "Translation Id": "68",
+  "Translation": null
+ },
+ {
+  "Text": "Green Tea (Teabags) - Blend name ",
+  "Version": 1,
+  "Translation Id": "69a",
+  "Translation": null
+ },
+ {
+  "Text": "Green Tea (Loose Tea) - Blend name ",
+  "Version": 1,
+  "Translation Id": "69b",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "70",
+  "Translation": null
+ },
+ {
+  "Text": "Green Tea Chinese Leaves",
+  "Version": 1,
+  "Translation Id": "71",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "72",
+  "Translation": null
+ },
+ {
+  "Text": "Jasmine Green Tea (Teabags) - Blend name ",
+  "Version": 1,
+  "Translation Id": "73a",
+  "Translation": null
+ },
+ {
+  "Text": "Jasmine Green Tea (Loose Tea) - Blend name ",
+  "Version": 1,
+  "Translation Id": "73b",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "74",
+  "Translation": null
+ },
+ {
+  "Text": "Jasmine Green Tea Chinese Leaves",
+  "Version": 1,
+  "Translation Id": "75",
+  "Translation": null
+ },
+ {
+  "Text": "Jasmine Green Tea, loose",
+  "Version": 1,
+  "Translation Id": "76",
+  "Translation": null
+ },
+ {
+  "Text": "Gunpowder Green Tea",
+  "Version": 1,
+  "Translation Id": "77",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "78",
+  "Translation": null
+ },
+ {
+  "Text": "Chinese",
+  "Version": 1,
+  "Translation Id": "79",
+  "Translation": null
+ },
+ {
+  "Text": "Fruit Tea",
+  "Version": 1,
+  "Translation Id": "80",
+  "Translation": null
+ },
+ {
+  "Text": "Fruit flavoured black tea",
+  "Version": 1,
+  "Translation Id": "81",
+  "Translation": null
+ },
+ {
+  "Text": "Irish Breakfast",
+  "Version": 1,
+  "Translation Id": "82",
+  "Translation": null
+ },
+ {
+  "Text": "Irish Breakfast loose tea",
+  "Version": 1,
+  "Translation Id": "83",
+  "Translation": null
+ },
+ {
+  "Text": "Lemon Tea (Loose tea blend name)",
+  "Version": 1,
+  "Translation Id": "84",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "85",
+  "Translation": null
+ },
+ {
+  "Text": "Orange Pekoe Ceylon Tea",
+  "Version": 1,
+  "Translation Id": "86",
+  "Translation": null
+ },
+ {
+  "Text": "Orange Pekoe Ceylon Tea loose tea",
+  "Version": 1,
+  "Translation Id": "87",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "88",
+  "Translation": null
+ },
+ {
+  "Text": "English Afternoon",
+  "Version": 1,
+  "Translation Id": "89",
+  "Translation": null
+ },
+ {
+  "Text": "English Afternoon (teabags) - Blend name ",
+  "Version": 1,
+  "Translation Id": "89a",
+  "Translation": null
+ },
+ {
+  "Text": "English Afternoon (loose tea) - Blend name ",
+  "Version": 1,
+  "Translation Id": "89b",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "90",
+  "Translation": null
+ },
+ {
+  "Text": "English Breakfast (teabags) - Blend name ",
+  "Version": 1,
+  "Translation Id": "91a",
+  "Translation": null
+ },
+ {
+  "Text": "English Breakfast (loose tea) - Blend name ",
+  "Version": 1,
+  "Translation Id": "91b",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "92",
+  "Translation": null
+ },
+ {
+  "Text": "Ceylon Tea loose tea",
+  "Version": 1,
+  "Translation Id": "93",
+  "Translation": null
+ },
+ {
+  "Text": "Ceylon Tea (teabags) - Blend name ",
+  "Version": 1,
+  "Translation Id": "94a",
+  "Translation": null
+ },
+ {
+  "Text": "Ceylon Tea (loose tea) - Blend name ",
+  "Version": 1,
+  "Translation Id": "94b",
+  "Translation": null
+ },
+ {
+  "Text": "Ceylon Tea F.B.O.P.F. loose tea",
+  "Version": 1,
+  "Translation Id": "95b",
+  "Translation": null
+ },
+ {
+  "Text": "Ceylon Tea B.O.P.1. loose tea",
+  "Version": 1,
+  "Translation Id": "96",
+  "Translation": null
+ },
+ {
+  "Text": "English Tea No 1 (teabags) - Blend name ",
+  "Version": 1,
+  "Translation Id": "97a",
+  "Translation": null
+ },
+ {
+  "Text": "English Tea No 1 (loose tea) - Blend name ",
+  "Version": 1,
+  "Translation Id": "97b",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "98",
+  "Translation": null
+ },
+ {
+  "Text": "Earl Grey Tea (teabags) - Blend name ",
+  "Version": 1,
+  "Translation Id": "A99a",
+  "Translation": null
+ },
+ {
+  "Text": "Earl Grey Tea (loose tea) - Blend name ",
+  "Version": 1,
+  "Translation Id": "A99b",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "100",
+  "Translation": null
+ },
+ {
+  "Text": "Assam Tea (teabags) - Blend name ",
+  "Version": 1,
+  "Translation Id": "101a",
+  "Translation": null
+ },
+ {
+  "Text": "Assam Tea (loose tea) - Blend name ",
+  "Version": 1,
+  "Translation Id": "101b",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "102",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "103",
+  "Translation": null
+ },
+ {
+  "Text": "Darjeeling (teabags) - Blend name ",
+  "Version": 1,
+  "Translation Id": "104a",
+  "Translation": null
+ },
+ {
+  "Text": "Darjeeling Tea (loose tea) - Blend name ",
+  "Version": 1,
+  "Translation Id": "104b",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "105",
+  "Translation": null
+ },
+ {
+  "Text": "Evening Tea",
+  "Version": 1,
+  "Translation Id": "106",
+  "Translation": null
+ },
+ {
+  "Text": "Victorian Blend - Blend Name ",
+  "Version": 1,
+  "Translation Id": "107",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "108",
+  "Translation": null
+ },
+ {
+  "Text": "Royal Blend - Blend Name ",
+  "Version": 1,
+  "Translation Id": "109",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "110",
+  "Translation": null
+ },
+ {
+  "Text": "Indian Tea",
+  "Version": 1,
+  "Translation Id": "111",
+  "Translation": null
+ },
+ {
+  "Text": "Free",
+  "Version": 1,
+  "Translation Id": "112",
+  "Translation": null
+ },
+ {
+  "Text": "Ceylon Tea, Earl Grey Tea, and Strawberry Jam",
+  "Version": 1,
+  "Translation Id": "113",
+  "Translation": null
+ },
+ {
+  "Text": "Ceylon Tea and Orange Marmalade",
+  "Version": 1,
+  "Translation Id": "114",
+  "Translation": null
+ },
+ {
+  "Text": "25 Teabags Tagged & Enveloped",
+  "Version": 1,
+  "Translation Id": "115",
+  "Translation": null
+ },
+ {
+  "Text": "Tea lightly flavoured with bergamot",
+  "Version": 1,
+  "Translation Id": "116",
+  "Translation": null
+ },
+ {
+  "Text": "Gross Weight",
+  "Version": 1,
+  "Translation Id": "117",
+  "Translation": null
+ },
+ {
+  "Text": "The World's Most Exclusive Tea",
+  "Version": 1,
+  "Translation Id": "118",
+  "Translation": null
+ },
+ {
+  "Text": "Free Keyring Inside",
+  "Version": 1,
+  "Translation Id": "119",
+  "Translation": null
+ },
+ {
+  "Text": "Gunpowder Green Tea, Chinese Leaves",
+  "Version": 1,
+  "Translation Id": "120",
+  "Translation": null
+ },
+ {
+  "Text": "Ceylon Tea with Earl Grey",
+  "Version": 1,
+  "Translation Id": "121",
+  "Translation": null
+ },
+ {
+  "Text": "Decaffeinated Black Tea, bergamot flavouring",
+  "Version": 1,
+  "Translation Id": "122",
+  "Translation": null
+ },
+ {
+  "Text": "Peach Oolong",
+  "Version": 1,
+  "Translation Id": "123",
+  "Translation": null
+ },
+ {
+  "Text": "Silver Needle",
+  "Version": 1,
+  "Translation Id": "124",
+  "Translation": null
+ },
+ {
+  "Text": "Yunnan",
+  "Version": 1,
+  "Translation Id": "125",
+  "Translation": null
+ },
+ {
+  "Text": "Use freshlyboiled water (Silver Needle)",
+  "Version": 1,
+  "Translation Id": "126",
+  "Translation": null
+ },
+ {
+  "Text": "Infuse 10 - 15 minutes (Silver Needle)",
+  "Version": 1,
+  "Translation Id": "127",
+  "Translation": null
+ },
+ {
+  "Text": "Royal English Afternoon Tea",
+  "Version": 1,
+  "Translation Id": "128",
+  "Translation": null
+ },
+ {
+  "Text": "Indian Tea, Imperial Blend",
+  "Version": 1,
+  "Translation Id": "129",
+  "Translation": null
+ },
+ {
+  "Text": "Fruit Flavour Teabags",
+  "Version": 1,
+  "Translation Id": "130",
+  "Translation": null
+ },
+ {
+  "Text": "Ahmad Tea",
+  "Version": 1,
+  "Translation Id": "131",
+  "Translation": null
+ },
+ {
+  "Text": "100 Teabags",
+  "Version": 1,
+  "Translation Id": "132",
+  "Translation": null
+ },
+ {
+  "Text": "Ahmad Tea London",
+  "Version": 1,
+  "Translation Id": "133",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients are free from genetical treatment",
+  "Version": 1,
+  "Translation Id": "134",
+  "Translation": null
+ },
+ {
+  "Text": "Ahmad Tea, 1 Wood Street, London, England",
+  "Version": 1,
+  "Translation Id": "135",
+  "Translation": null
+ },
+ {
+  "Text": "Imperial Blend with Earl Grey",
+  "Version": 1,
+  "Translation Id": "136",
+  "Translation": null
+ },
+ {
+  "Text": "Ghalami Tea - Calcutta",
+  "Version": 1,
+  "Translation Id": "137",
+  "Translation": null
+ },
+ {
+  "Text": "Packed in Sri Lanka under the supervision of Ahmad Tea Ltd, EC2V 7WS, London, Wood Street, 1, England",
+  "Version": 1,
+  "Translation Id": "138",
+  "Translation": null
+ },
+ {
+  "Text": "Producers Trademark",
+  "Version": 1,
+  "Translation Id": "139",
+  "Translation": null
+ },
+ {
+  "Text": "Jasmine Dragon Pearl",
+  "Version": 1,
+  "Translation Id": "140",
+  "Translation": null
+ },
+ {
+  "Text": "Tea Selection with Shortbread",
+  "Version": 1,
+  "Translation Id": "141",
+  "Translation": null
+ },
+ {
+  "Text": "Victorian Ceylon Tea",
+  "Version": 1,
+  "Translation Id": "142",
+  "Translation": null
+ },
+ {
+  "Text": "Victorian Darjeeling Tea",
+  "Version": 1,
+  "Translation Id": "143",
+  "Translation": null
+ },
+ {
+  "Text": "Victorian Decaffeinated Tea",
+  "Version": 1,
+  "Translation Id": "144",
+  "Translation": null
+ },
+ {
+  "Text": "Victorian Earl Grey",
+  "Version": 1,
+  "Translation Id": "145",
+  "Translation": null
+ },
+ {
+  "Text": "Victorian English Afternoon Tea",
+  "Version": 1,
+  "Translation Id": "146",
+  "Translation": null
+ },
+ {
+  "Text": "Victorian English Breakfast Tea",
+  "Version": 1,
+  "Translation Id": "147",
+  "Translation": null
+ },
+ {
+  "Text": "Victorian Green Tea",
+  "Version": 1,
+  "Translation Id": "148",
+  "Translation": null
+ },
+ {
+  "Text": "Earl Grey Green Tea",
+  "Version": 1,
+  "Translation Id": "149",
+  "Translation": null
+ },
+ {
+  "Text": "Lemon Green Tea (teabags) - Blend name ",
+  "Version": 1,
+  "Translation Id": "150a",
+  "Translation": null
+ },
+ {
+  "Text": "Lemon Green Tea (loose tea) - Blend name ",
+  "Version": 1,
+  "Translation Id": "150b",
+  "Translation": null
+ },
+ {
+  "Text": "Mint Green Tea (teabags) - Blend name ",
+  "Version": 1,
+  "Translation Id": "151a",
+  "Translation": null
+ },
+ {
+  "Text": "Mint Green Tea (loose tea) - Blend name ",
+  "Version": 1,
+  "Translation Id": "151b",
+  "Translation": null
+ },
+ {
+  "Text": "Green Tea original",
+  "Version": 1,
+  "Translation Id": "152",
+  "Translation": null
+ },
+ {
+  "Text": "Ceylon OPA loose Tea",
+  "Version": 1,
+  "Translation Id": "153",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, fruit flavouring",
+  "Version": 1,
+  "Translation Id": "154",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "155",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "156",
+  "Translation": null
+ },
+ {
+  "Text": "Ceylon Cardamon",
+  "Version": 1,
+  "Translation Id": "157",
+  "Translation": null
+ },
+ {
+  "Text": "Black Tea Lemon flavouring",
+  "Version": 1,
+  "Translation Id": "158",
+  "Translation": null
+ },
+ {
+  "Text": "Enveloped Teabags Fruit flavouring",
+  "Version": 1,
+  "Translation Id": "159",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "160",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "161",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "162",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "163",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "164",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "165",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "166",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "167",
+  "Translation": null
+ },
+ {
+  "Text": "Black loose tea with addition of high quality CTC teas.",
+  "Version": 1,
+  "Translation Id": "168",
+  "Translation": null
+ },
+ {
+  "Text": "Black loose tea, flavoured with bergamot.",
+  "Version": 1,
+  "Translation Id": "169a",
+  "Translation": null
+ },
+ {
+  "Text": "Black loose Indian tea",
+  "Version": 1,
+  "Translation Id": "170",
+  "Translation": null
+ },
+ {
+  "Text": "Black loose tea",
+  "Version": 1,
+  "Translation Id": "171",
+  "Translation": null
+ },
+ {
+  "Text": "Green loose tea",
+  "Version": 1,
+  "Translation Id": "172",
+  "Translation": null
+ },
+ {
+  "Text": "Black indian loose tea",
+  "Version": 1,
+  "Translation Id": "173",
+  "Translation": null
+ },
+ {
+  "Text": "Black indian loose tea, flavoured with bergamot",
+  "Version": 1,
+  "Translation Id": "174",
+  "Translation": null
+ },
+ {
+  "Text": "Black indian leaf tea",
+  "Version": 1,
+  "Translation Id": "175",
+  "Translation": null
+ },
+ {
+  "Text": "Black loose tea flavoured with lemon",
+  "Version": 1,
+  "Translation Id": "176",
+  "Translation": null
+ },
+ {
+  "Text": "Jasmine green loose tea",
+  "Version": 1,
+  "Translation Id": "177",
+  "Translation": null
+ },
+ {
+  "Text": "Green Chinese tea, small size leaf, mint flavoured, teabags ... x ...g",
+  "Version": 1,
+  "Translation Id": "178",
+  "Translation": null
+ },
+ {
+  "Text": "Green Chinese tea, small size leaf, lemon flavoured, teabags  ... x ...g",
+  "Version": 1,
+  "Translation Id": "179",
+  "Translation": null
+ },
+ {
+  "Text": "Green Chinese tea, small size leaf, bergamot flavoured, teabags  ... x ...g",
+  "Version": 1,
+  "Translation Id": "180",
+  "Translation": null
+ },
+ {
+  "Text": "Black Indian tea, small size leaf, teabags _x_g",
+  "Version": 1,
+  "Translation Id": "181a",
+  "Translation": null
+ },
+ {
+  "Text": "Black Ceylon tea, small size leaf, teabags _x_g",
+  "Version": 1,
+  "Translation Id": "182",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, small size leaf, bergamot flavouring, teabags _ x_g",
+  "Version": 1,
+  "Translation Id": "183",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, small size leaf, decaffeinated flavouring, teabags _ x _g",
+  "Version": 1,
+  "Translation Id": "184",
+  "Translation": null
+ },
+ {
+  "Text": "\"Black loose tea with addition of high quality CTC teas, small size Leaf, teabags _x_g\"",
+  "Version": 1,
+  "Translation Id": "185",
+  "Translation": null
+ },
+ {
+  "Text": "Green Chinese tea, small size leaf, teabags _x_g",
+  "Version": 1,
+  "Translation Id": "186",
+  "Translation": null
+ },
+ {
+  "Text": "Green tea, small size leaf, jasmine flavouring teabags _x_g",
+  "Version": 1,
+  "Translation Id": "187",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, small size leaf, decaffeinated bergamot flavouring, teabags _ x _g",
+  "Version": 1,
+  "Translation Id": "188",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, small size leaf, decaffeinated, teabags _ x _g",
+  "Version": 1,
+  "Translation Id": "189",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, small size leaf, Vanilla flavouring, teabags _ x _g",
+  "Version": 1,
+  "Translation Id": "190",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, small size leaf, Strawberry flavouring, teabags _ x _g",
+  "Version": 1,
+  "Translation Id": "191",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, small size leaf, Raspberry flavouring, teabags _ x _g",
+  "Version": 1,
+  "Translation Id": "192",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, small size leaf, Peach & Passion flavouring, teabags _ x _g",
+  "Version": 1,
+  "Translation Id": "193",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, small size leaf, Mango flavouring, teabags _ x _g",
+  "Version": 1,
+  "Translation Id": "194",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, small size leaf, Lemon & Lime flavouring, teabags _ x _g",
+  "Version": 1,
+  "Translation Id": "195",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, small size leaf, Cinnamon flavouring, teabags _ x _g",
+  "Version": 1,
+  "Translation Id": "196",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, small size leaf, Apple flavouring, teabags _ x _g",
+  "Version": 1,
+  "Translation Id": "197",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, small size leaf, Apricot flavouring, teabags _ x _g",
+  "Version": 1,
+  "Translation Id": "198",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, small size leaf, Blackcurrant flavouring, teabags _ x _g",
+  "Version": 1,
+  "Translation Id": "199",
+  "Translation": null
+ },
+ {
+  "Text": "Black Indian tea, middle size Leaf",
+  "Version": 1,
+  "Translation Id": "200",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "201",
+  "Translation": null
+ },
+ {
+  "Text": "Produced by: Ahmad Tea Ltd. 1 Wood St. London EC2V 7WS England",
+  "Version": 1,
+  "Translation Id": "202",
+  "Translation": null
+ },
+ {
+  "Text": "With all issues please refer to (address and email)",
+  "Version": 1,
+  "Translation Id": "203",
+  "Translation": null
+ },
+ {
+  "Text": "English Method of brewing: put one teabag per person, pour on boiled water and allow to brew for \u2026-... min.",
+  "Version": 1,
+  "Translation Id": "204",
+  "Translation": null
+ },
+ {
+  "Text": "English Method of brewing: put one teaspoon of tea per person and one for the pot. Pour on boiled water and allow  to brew for \u2026-... min.",
+  "Version": 1,
+  "Translation Id": "205",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: black tea, small size leaf, bergamot flavouring, identical to the natural",
+  "Version": 1,
+  "Translation Id": "206",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: black loose tea, bergamot flavouring, identical to the natural",
+  "Version": 1,
+  "Translation Id": "207",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: black loose tea, lemon flavouring",
+  "Version": 1,
+  "Translation Id": "208",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: green Chinese small size leaf tea, mint flavouring, indentical to the natural",
+  "Version": 1,
+  "Translation Id": "209",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: green Chinese loose small size leaf tea, lemon flavouring identical to the natural",
+  "Version": 1,
+  "Translation Id": "210",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: green Chinese small size leaf tea, bergamot flavouring, indentical to the natural",
+  "Version": 1,
+  "Translation Id": "211",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: black Ceylon tea, small size leaf, bergamot flavouring, identical to the natural",
+  "Version": 1,
+  "Translation Id": "212",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: Green tea, small size leaf, Jasmine flowers",
+  "Version": 1,
+  "Translation Id": "213",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: black tea, small size leaf, vanilla flavouring, identical to the natural",
+  "Version": 1,
+  "Translation Id": "214",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: black tea, small size leaf, strawberry flavouring, identical to the natural",
+  "Version": 1,
+  "Translation Id": "215",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: black tea, small size leaf, raspberry flavouring, identical to the natural",
+  "Version": 1,
+  "Translation Id": "216",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: black tea, small size leaf, peach & passion flavouring, identical to the natural",
+  "Version": 1,
+  "Translation Id": "217",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: black tea, small size leaf, mango flavouring, identical to the natural",
+  "Version": 1,
+  "Translation Id": "218",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: black tea, small size leaf, lemon & lime flavouring, identical to the natural",
+  "Version": 1,
+  "Translation Id": "219",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: black tea, small size leaf, cinnamon flavouring, identical to the natural",
+  "Version": 1,
+  "Translation Id": "220",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: black tea, small size leaf, apple flavouring, identical to the natural",
+  "Version": 1,
+  "Translation Id": "221",
+  "Translation": null
+ },
+ {
+  "Text": "Weight and expiry date: introduced on cover",
+  "Version": 1,
+  "Translation Id": "222",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: black tea, small size leaf, apricot flavouring, identical to the natural",
+  "Version": 1,
+  "Translation Id": "223",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: black tea, small size leaf, blackcurrant flavouring, identical to the natural",
+  "Version": 1,
+  "Translation Id": "224",
+  "Translation": null
+ },
+ {
+  "Text": "English Tea Selection",
+  "Version": 1,
+  "Translation Id": "225",
+  "Translation": null
+ },
+ {
+  "Text": "Produced under the construction of Ahmad Tea Ltd, EC2V London, Wood Street, 1, England (Great Britain)",
+  "Version": 1,
+  "Translation Id": "226",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea aromatised",
+  "Version": 1,
+  "Translation Id": "227",
+  "Translation": null
+ },
+ {
+  "Text": "Gift pack of fruit flavoured black tea",
+  "Version": 1,
+  "Translation Id": "228",
+  "Translation": null
+ },
+ {
+  "Text": "Gift pack of black tea",
+  "Version": 1,
+  "Translation Id": "229",
+  "Translation": null
+ },
+ {
+  "Text": "White tea",
+  "Version": 1,
+  "Translation Id": "230",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "231",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "232",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "233",
+  "Translation": null
+ },
+ {
+  "Text": "how to use: slop of warm water, infuse \u2026-... minutes",
+  "Version": 1,
+  "Translation Id": "234",
+  "Translation": null
+ },
+ {
+  "Text": "how to use: slop of water 60-80\u00b0C, infuse \u2026-... minutes",
+  "Version": 1,
+  "Translation Id": "235",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "236",
+  "Translation": null
+ },
+ {
+  "Text": "Indian black teabags",
+  "Version": 1,
+  "Translation Id": "237",
+  "Translation": null
+ },
+ {
+  "Text": "Ceylon black teabags",
+  "Version": 1,
+  "Translation Id": "238",
+  "Translation": null
+ },
+ {
+  "Text": "Black teabags, bergamot flavouring",
+  "Version": 1,
+  "Translation Id": "239",
+  "Translation": null
+ },
+ {
+  "Text": "Ceylon tagged and enveloped teabags",
+  "Version": 1,
+  "Translation Id": "240",
+  "Translation": null
+ },
+ {
+  "Text": "Tagged and enveloped teabags, bergamot flavouring (EA+NO.1 only)",
+  "Version": 1,
+  "Translation Id": "241",
+  "Translation": null
+ },
+ {
+  "Text": "Tagged and enveloped teabags, bergamot flavouring",
+  "Version": 1,
+  "Translation Id": "242",
+  "Translation": null
+ },
+ {
+  "Text": "Green tagged and enveloped teabags, Jasmine flowers",
+  "Version": 1,
+  "Translation Id": "243",
+  "Translation": null
+ },
+ {
+  "Text": "Tagged and enveloped teabags, apple flavouring",
+  "Version": 1,
+  "Translation Id": "244",
+  "Translation": null
+ },
+ {
+  "Text": "Tagged and enveloped teabags, apricot flavouring",
+  "Version": 1,
+  "Translation Id": "245",
+  "Translation": null
+ },
+ {
+  "Text": "Tagged and enveloped teabags, blackcurrant flavouring",
+  "Version": 1,
+  "Translation Id": "246",
+  "Translation": null
+ },
+ {
+  "Text": "Tagged and enveloped teabags, lemon and lime flavouring",
+  "Version": 1,
+  "Translation Id": "247",
+  "Translation": null
+ },
+ {
+  "Text": "Tagged and enveloped teabags, mango flavouring",
+  "Version": 1,
+  "Translation Id": "248",
+  "Translation": null
+ },
+ {
+  "Text": "Tagged and enveloped teabags, peach and passion fruit flavouring",
+  "Version": 1,
+  "Translation Id": "249",
+  "Translation": null
+ },
+ {
+  "Text": "Tagged and enveloped teabags, raspberry flavouring",
+  "Version": 1,
+  "Translation Id": "250",
+  "Translation": null
+ },
+ {
+  "Text": "Tagged and enveloped teabags, strawberry flavouring",
+  "Version": 1,
+  "Translation Id": "251",
+  "Translation": null
+ },
+ {
+  "Text": "Tagged and enveloped teabags, vanilla flavouring",
+  "Version": 1,
+  "Translation Id": "252",
+  "Translation": null
+ },
+ {
+  "Text": "Black leaf tea",
+  "Version": 1,
+  "Translation Id": "253",
+  "Translation": null
+ },
+ {
+  "Text": "Tagged teabags, bergamot flavouring",
+  "Version": 1,
+  "Translation Id": "254",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "255",
+  "Translation": null
+ },
+ {
+  "Text": "Green tagged teabags",
+  "Version": 1,
+  "Translation Id": "256",
+  "Translation": null
+ },
+ {
+  "Text": "Green tea, mint flavouring",
+  "Version": 1,
+  "Translation Id": "257",
+  "Translation": null
+ },
+ {
+  "Text": "Green tea, bergamot flavouring",
+  "Version": 1,
+  "Translation Id": "258",
+  "Translation": null
+ },
+ {
+  "Text": "Green tea, lemon flavouring",
+  "Version": 1,
+  "Translation Id": "259",
+  "Translation": null
+ },
+ {
+  "Text": "Green tagged and enveloped teabags",
+  "Version": 1,
+  "Translation Id": "260",
+  "Translation": null
+ },
+ {
+  "Text": "Ceylon tea with cardamon",
+  "Version": 1,
+  "Translation Id": "261",
+  "Translation": null
+ },
+ {
+  "Text": "Enveloped ceylon teabags",
+  "Version": 1,
+  "Translation Id": "262",
+  "Translation": null
+ },
+ {
+  "Text": "Tagged and enveloped teabags, cinnamon flavouring",
+  "Version": 1,
+  "Translation Id": "263",
+  "Translation": null
+ },
+ {
+  "Text": "Ceylon Special",
+  "Version": 1,
+  "Translation Id": "264",
+  "Translation": null
+ },
+ {
+  "Text": "Green Tea, Jasmine Flowers",
+  "Version": 1,
+  "Translation Id": "265",
+  "Translation": null
+ },
+ {
+  "Text": "Jasmine green tea, 1% jasmine flowers(Ing: Loose tea)",
+  "Version": 1,
+  "Translation Id": "265a",
+  "Translation": null
+ },
+ {
+  "Text": "Jasmine green tea(Ing: Teabags)",
+  "Version": 1,
+  "Translation Id": "265b",
+  "Translation": null
+ },
+ {
+  "Text": "Green Tea with Natural Jasmine Flavouring",
+  "Version": 1,
+  "Translation Id": "266",
+  "Translation": null
+ },
+ {
+  "Text": "Flavoured Green Tea",
+  "Version": 1,
+  "Translation Id": "267",
+  "Translation": null
+ },
+ {
+  "Text": "Green Tea Selection (A selection of green and flavoured green teas)",
+  "Version": 1,
+  "Translation Id": "268",
+  "Translation": null
+ },
+ {
+  "Text": "Natural flavouring",
+  "Version": 1,
+  "Translation Id": "269",
+  "Translation": null
+ },
+ {
+  "Text": "Blueberry Green Tea",
+  "Version": 1,
+  "Translation Id": "270",
+  "Translation": null
+ },
+ {
+  "Text": "Green Tea,\u2008Blueberry flavouring",
+  "Version": 1,
+  "Translation Id": "271",
+  "Translation": null
+ },
+ {
+  "Text": "Foil enveloped teabags",
+  "Version": 1,
+  "Translation Id": "272",
+  "Translation": null
+ },
+ {
+  "Text": "Ceylon Assam Tea",
+  "Version": 1,
+  "Translation Id": "273",
+  "Translation": null
+ },
+ {
+  "Text": "Green Tea Special",
+  "Version": 1,
+  "Translation Id": "274",
+  "Translation": null
+ },
+ {
+  "Text": "Special Blend (Teabag blend name)",
+  "Version": 1,
+  "Translation Id": "275a",
+  "Translation": null
+ },
+ {
+  "Text": "Special Blend (Loose Tea blend name)",
+  "Version": 1,
+  "Translation Id": "275b",
+  "Translation": null
+ },
+ {
+  "Text": "Green & Black Tea",
+  "Version": 1,
+  "Translation Id": "276",
+  "Translation": null
+ },
+ {
+  "Text": "Green Tea Flavouring",
+  "Version": 1,
+  "Translation Id": "277",
+  "Translation": null
+ },
+ {
+  "Text": "91% Green Tea, 9% Black Tea",
+  "Version": 1,
+  "Translation Id": "278",
+  "Translation": null
+ },
+ {
+  "Text": "Ceylon Special",
+  "Version": 1,
+  "Translation Id": "279",
+  "Translation": null
+ },
+ {
+  "Text": "Ceylon with Earl\u2008Grey",
+  "Version": 1,
+  "Translation Id": "280",
+  "Translation": null
+ },
+ {
+  "Text": "Flavoured black tea",
+  "Version": 1,
+  "Translation Id": "281",
+  "Translation": null
+ },
+ {
+  "Text": "Cardamom Tea (Teabag blend name)",
+  "Version": 1,
+  "Translation Id": "282a",
+  "Translation": null
+ },
+ {
+  "Text": "Cardamom Tea (Loose Tea blend name)",
+  "Version": 1,
+  "Translation Id": "282b",
+  "Translation": null
+ },
+ {
+  "Text": "Packed in Czech Republic",
+  "Version": 1,
+  "Translation Id": "283",
+  "Translation": null
+ },
+ {
+  "Text": "Packed in Poland",
+  "Version": 1,
+  "Translation Id": "284",
+  "Translation": null
+ },
+ {
+  "Text": "Produced in Poland",
+  "Version": 1,
+  "Translation Id": "285",
+  "Translation": null
+ },
+ {
+  "Text": "Expiry Date:",
+  "Version": 1,
+  "Translation Id": "286",
+  "Translation": null
+ },
+ {
+  "Text": "Liquorice Root",
+  "Version": 1,
+  "Translation Id": "287",
+  "Translation": null
+ },
+ {
+  "Text": "Twelve Teas",
+  "Version": 1,
+  "Translation Id": "288",
+  "Translation": null
+ },
+ {
+  "Text": "Windsor Darjeeling",
+  "Version": 1,
+  "Translation Id": "289",
+  "Translation": null
+ },
+ {
+  "Text": "Edinburgh Earl Grey",
+  "Version": 1,
+  "Translation Id": "290",
+  "Translation": null
+ },
+ {
+  "Text": "Warwick Assam",
+  "Version": 1,
+  "Translation Id": "291",
+  "Translation": null
+ },
+ {
+  "Text": "Hampton Breakfast",
+  "Version": 1,
+  "Translation Id": "292",
+  "Translation": null
+ },
+ {
+  "Text": "Energetic content:",
+  "Version": 1,
+  "Translation Id": "293",
+  "Translation": null
+ },
+ {
+  "Text": "Green&Black (green tea special)",
+  "Version": 1,
+  "Translation Id": "294",
+  "Translation": null
+ },
+ {
+  "Text": "Unflavoured (black, green, jasmine)",
+  "Version": 1,
+  "Translation Id": "295",
+  "Translation": null
+ },
+ {
+  "Text": "Bergamot flavoured (No1, EG, EA)",
+  "Version": 1,
+  "Translation Id": "296",
+  "Translation": null
+ },
+ {
+  "Text": "Cherry Pieces",
+  "Version": 1,
+  "Translation Id": "297",
+  "Translation": null
+ },
+ {
+  "Text": "Cherry Black Tea",
+  "Version": 1,
+  "Translation Id": "298",
+  "Translation": null
+ },
+ {
+  "Text": "Pineapple Black Tea",
+  "Version": 1,
+  "Translation Id": "299",
+  "Translation": null
+ },
+ {
+  "Text": "Banana Black Tea",
+  "Version": 1,
+  "Translation Id": "300",
+  "Translation": null
+ },
+ {
+  "Text": "Peppermint & Lemon",
+  "Version": 1,
+  "Translation Id": "301",
+  "Translation": null
+ },
+ {
+  "Text": "Rosehip Hibiscus & Cherry",
+  "Version": 1,
+  "Translation Id": "302",
+  "Translation": null
+ },
+ {
+  "Text": "Chamomile & Lemongrass",
+  "Version": 1,
+  "Translation Id": "303",
+  "Translation": null
+ },
+ {
+  "Text": "Rooibos & Cinnamon",
+  "Version": 1,
+  "Translation Id": "304",
+  "Translation": null
+ },
+ {
+  "Text": "Mixed Berries",
+  "Version": 1,
+  "Translation Id": "305",
+  "Translation": null
+ },
+ {
+  "Text": "Mixed Citrus",
+  "Version": 1,
+  "Translation Id": "306",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, cherry flavouring (Natural Identical)",
+  "Version": 1,
+  "Translation Id": "307",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, pineapple flavouring (Natural Identical)",
+  "Version": 1,
+  "Translation Id": "308",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, banana flavouring (Natural Identical)",
+  "Version": 1,
+  "Translation Id": "309",
+  "Translation": null
+ },
+ {
+  "Text": "Peppermint, Natural lemon flavour, Lemon peels",
+  "Version": 1,
+  "Translation Id": "310",
+  "Translation": null
+ },
+ {
+  "Text": "Rosehip, Hibiscus, ar\u00f4me naturel cherry flavour, cherry pieces",
+  "Version": 1,
+  "Translation Id": "311",
+  "Translation": null
+ },
+ {
+  "Text": "Hibiscus, Roships. Apples, Sweet Blackberry leaves, Orange peels, Natural flavour, Elderberries, Bilberries, Blackberries, Raspberries",
+  "Version": 1,
+  "Translation Id": "312",
+  "Translation": null
+ },
+ {
+  "Text": "Roships. Hibiscus, lemon peel, lemon grass, Orange peels, liquorice root, Natural flavour",
+  "Version": 1,
+  "Translation Id": "313",
+  "Translation": null
+ },
+ {
+  "Text": "Chamomile, lemongrass, natural flavour",
+  "Version": 1,
+  "Translation Id": "314",
+  "Translation": null
+ },
+ {
+  "Text": "Rooibos, Earl Grey",
+  "Version": 1,
+  "Translation Id": "315",
+  "Translation": null
+ },
+ {
+  "Text": "Decaffeinated banana and caramel tea",
+  "Version": 1,
+  "Translation Id": "316",
+  "Translation": null
+ },
+ {
+  "Text": "Decaffeinated tea, banana and caramel flavouring",
+  "Version": 1,
+  "Translation Id": "317",
+  "Translation": null
+ },
+ {
+  "Text": "Quality Issues ",
+  "Version": 1,
+  "Translation Id": "318",
+  "Translation": null
+ },
+ {
+  "Text": "Turkish Blend",
+  "Version": 1,
+  "Translation Id": "319",
+  "Translation": null
+ },
+ {
+  "Text": "Fresh Perfection",
+  "Version": 1,
+  "Translation Id": "320",
+  "Translation": null
+ },
+ {
+  "Text": "Safari Sunset",
+  "Version": 1,
+  "Translation Id": "321",
+  "Translation": null
+ },
+ {
+  "Text": "Billberry Dreams",
+  "Version": 1,
+  "Translation Id": "322",
+  "Translation": null
+ },
+ {
+  "Text": "Citrus fiesta",
+  "Version": 1,
+  "Translation Id": "323",
+  "Translation": null
+ },
+ {
+  "Text": "Mint Finesse",
+  "Version": 1,
+  "Translation Id": "324",
+  "Translation": null
+ },
+ {
+  "Text": "Victorian Assam Tea GBOP",
+  "Version": 1,
+  "Translation Id": "325",
+  "Translation": null
+ },
+ {
+  "Text": "Royal English Afternoon Tea",
+  "Version": 1,
+  "Translation Id": "326",
+  "Translation": null
+ },
+ {
+  "Text": "Green Tea with Earl Grey",
+  "Version": 1,
+  "Translation Id": "327",
+  "Translation": null
+ },
+ {
+  "Text": "Packed in European Union",
+  "Version": 1,
+  "Translation Id": "328",
+  "Translation": null
+ },
+ {
+  "Text": "White Tea",
+  "Version": 1,
+  "Translation Id": "329",
+  "Translation": null
+ },
+ {
+  "Text": "Mixed Herbal",
+  "Version": 1,
+  "Translation Id": "330",
+  "Translation": null
+ },
+ {
+  "Text": "Rooibos, bergamot flavouring",
+  "Version": 1,
+  "Translation Id": "331",
+  "Translation": null
+ },
+ {
+  "Text": "Regency Tea",
+  "Version": 1,
+  "Translation Id": "332",
+  "Translation": null
+ },
+ {
+  "Text": "Importer in Egypt",
+  "Version": 3,
+  "Translation Id": "A333",
+  "Translation": " [(+2066)3776778 : \u0628\u0648\u0631\u0633\u0645\u064a\u062f \u060c(+202)46300005 : \u0627\u0644\u0642\u0627\u0647\u0631\u0629] \u0627\u0644\u0645\u0633\u062a\u0648\u0631\u062f \u0641\u064a \u0645\u0635\u0631 : \u0631\u0633\u0644\u0627\u0646"
+ },
+ {
+  "Text": "Free spoon inside",
+  "Version": 1,
+  "Translation Id": "334",
+  "Translation": null
+ },
+ {
+  "Text": "Mixed herbal ingredients",
+  "Version": 1,
+  "Translation Id": "335",
+  "Translation": null
+ },
+ {
+  "Text": "packed in Indonesia",
+  "Version": 1,
+  "Translation Id": "336",
+  "Translation": null
+ },
+ {
+  "Text": "packed in Malawi",
+  "Version": 1,
+  "Translation Id": "337",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: Indian Tea",
+  "Version": 1,
+  "Translation Id": "338",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: Ceylon Tea",
+  "Version": 1,
+  "Translation Id": "339",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: Chinese Tea",
+  "Version": 1,
+  "Translation Id": "340",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: Kenyan Tea",
+  "Version": 1,
+  "Translation Id": "341",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: Indonesia Tea",
+  "Version": 1,
+  "Translation Id": "342",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: Malawi Tea",
+  "Version": 1,
+  "Translation Id": "343",
+  "Translation": null
+ },
+ {
+  "Text": "Aromatic Earl Grey (teabag blend name)",
+  "Version": 1,
+  "Translation Id": "344a",
+  "Translation": null
+ },
+ {
+  "Text": "Aromatic Earl Grey (Loose Tea blend name)",
+  "Version": 1,
+  "Translation Id": "344b ",
+  "Translation": null
+ },
+ {
+  "Text": "Magic Rooibos",
+  "Version": 1,
+  "Translation Id": "345",
+  "Translation": null
+ },
+ {
+  "Text": "Mint Cocktail",
+  "Version": 1,
+  "Translation Id": "346",
+  "Translation": null
+ },
+ {
+  "Text": "Citrus Passion",
+  "Version": 1,
+  "Translation Id": "347",
+  "Translation": null
+ },
+ {
+  "Text": "Forest Berries",
+  "Version": 1,
+  "Translation Id": "348",
+  "Translation": null
+ },
+ {
+  "Text": "Cherry Dessert",
+  "Version": 1,
+  "Translation Id": "349",
+  "Translation": null
+ },
+ {
+  "Text": "Camomile Morning",
+  "Version": 1,
+  "Translation Id": "350",
+  "Translation": null
+ },
+ {
+  "Text": "English Tradition",
+  "Version": 1,
+  "Translation Id": "351",
+  "Translation": null
+ },
+ {
+  "Text": "Dust Tea",
+  "Version": 1,
+  "Translation Id": "352",
+  "Translation": null
+ },
+ {
+  "Text": "English Breakfast Dust Tea",
+  "Version": 1,
+  "Translation Id": "353",
+  "Translation": null
+ },
+ {
+  "Text": "Herbal tea drink",
+  "Version": 1,
+  "Translation Id": "354",
+  "Translation": null
+ },
+ {
+  "Text": "New packaging coming soon",
+  "Version": 1,
+  "Translation Id": "355",
+  "Translation": null
+ },
+ {
+  "Text": "Fruit and Herbal infusions",
+  "Version": 1,
+  "Translation Id": "356",
+  "Translation": null
+ },
+ {
+  "Text": "Refreshing and Healthy drink",
+  "Version": 1,
+  "Translation Id": "357",
+  "Translation": null
+ },
+ {
+  "Text": "A world of teas",
+  "Version": 1,
+  "Translation Id": "358",
+  "Translation": null
+ },
+ {
+  "Text": "Importer: Alhadita Co., Tripoli-Libya. Tel: 0214893872",
+  "Version": 1,
+  "Translation Id": "359",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "360",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "361",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "362",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "363",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "364",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "365",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "366",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "367",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "368",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "369",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "370",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "371",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "372",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "373",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "374",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "375",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "376",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "377",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "378",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "379",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "380",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "381",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "382",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "383",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "384",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "385",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: Rosehip Hibiscus & Cherry (Rosehips 65.1%, Hibiscus 30%, Natural Flavour 4.4%, Cherry 0.5%)",
+  "Version": 1,
+  "Translation Id": "386",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: Rooibos & Cinnamon (Rooibos 80%, Cinnamon 20%)",
+  "Version": 1,
+  "Translation Id": "387",
+  "Translation": null
+ },
+ {
+  "Text": "Rooibos, Bergamot flavouring",
+  "Version": 1,
+  "Translation Id": "388",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: Camomile & Lemongrass (Camomile 90%, Lemongrass 10%)",
+  "Version": 1,
+  "Translation Id": "389",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: Peppermint & Lemon (Peppermint 65.5%, Spearmint 30%, Natural Flavour 3.5%, Lemon Peel 1%)",
+  "Version": 1,
+  "Translation Id": "390",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: Mixed Citrus (Hibiscus, Apple, 8.5% Natural flavourings, Sweet Blackberry Leaves, 4% Orange Peels, Rosehips, 1% Lemon Peels)",
+  "Version": 1,
+  "Translation Id": "391",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: Mixed Berries (Hibiscus 45%, Apple, Sweet Blackberry Leaves 13%, Natural Flavour 7%, Elderberries 3%, Orange Peel, Rosehips 2%, Blueberries 0.2%, Blackberries 0.2%, Raspberries 0.2%.)",
+  "Version": 1,
+  "Translation Id": "392",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: Blackcurrant (Hibiscus, Sweet Blackberry Leaves, 9.3% Natural flavour, Liquorice, Apple, 1% Blackcurrant Berries, Rosehips, Blackberries, Strawberries)",
+  "Version": 1,
+  "Translation Id": "393",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: Wild Strawberry (Apple, Hibiscus, Sweet Blackberry Leaves, Natural Flavour 7.6%, Orange Peels, Strawberries 1%, Elderberries)",
+  "Version": 1,
+  "Translation Id": "394",
+  "Translation": null
+ },
+ {
+  "Text": "Wild Strawberry",
+  "Version": 1,
+  "Translation Id": "395",
+  "Translation": null
+ },
+ {
+  "Text": "Blackcurrant",
+  "Version": 1,
+  "Translation Id": "396",
+  "Translation": null
+ },
+ {
+  "Text": "Orange Blossom",
+  "Version": 1,
+  "Translation Id": "397",
+  "Translation": null
+ },
+ {
+  "Text": "black loose tea , marigold flower, orange blossom flavouring (natural)",
+  "Version": 1,
+  "Translation Id": "398",
+  "Translation": null
+ },
+ {
+  "Text": "Heavenly Oolong",
+  "Version": 1,
+  "Translation Id": "399",
+  "Translation": null
+ },
+ {
+  "Text": "Oolong tea",
+  "Version": 1,
+  "Translation Id": "400",
+  "Translation": null
+ },
+ {
+  "Text": "Packed in UAE",
+  "Version": 1,
+  "Translation Id": "A401",
+  "Translation": "\u0645\u0639\u0628\u0623\u0629 \u0641\u064a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
+ },
+ {
+  "Text": "Ingredients: Winter Charm (Apple 33%, Hibiscus, Orange peel 10%, Cinnamon 8%, Liquorice Root, Rosehips, Cloves 6%)",
+  "Version": 1,
+  "Translation Id": "402",
+  "Translation": null
+ },
+ {
+  "Text": "Winter Charm",
+  "Version": 1,
+  "Translation Id": "403",
+  "Translation": null
+ },
+ {
+  "Text": "Apple Refresh",
+  "Version": 1,
+  "Translation Id": "404",
+  "Translation": null
+ },
+ {
+  "Text": "Apricot Sunrise",
+  "Version": 1,
+  "Translation Id": "405",
+  "Translation": null
+ },
+ {
+  "Text": "Blackcurrant Burst",
+  "Version": 1,
+  "Translation Id": "406",
+  "Translation": null
+ },
+ {
+  "Text": "Cinnamon Haze",
+  "Version": 1,
+  "Translation Id": "407",
+  "Translation": null
+ },
+ {
+  "Text": "Lemon & Lime Twist",
+  "Version": 1,
+  "Translation Id": "408",
+  "Translation": null
+ },
+ {
+  "Text": "Mango Magic",
+  "Version": 1,
+  "Translation Id": "409",
+  "Translation": null
+ },
+ {
+  "Text": "Peach & Passion Fruit",
+  "Version": 1,
+  "Translation Id": "410",
+  "Translation": null
+ },
+ {
+  "Text": "Raspberry Indulgence",
+  "Version": 1,
+  "Translation Id": "411",
+  "Translation": null
+ },
+ {
+  "Text": "Strawberry Sensation",
+  "Version": 1,
+  "Translation Id": "412",
+  "Translation": null
+ },
+ {
+  "Text": "Vanilla Tranquility",
+  "Version": 1,
+  "Translation Id": "413",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, flavouring, 2% apple",
+  "Version": 1,
+  "Translation Id": "414",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, flavouring, 2% apricot",
+  "Version": 1,
+  "Translation Id": "415",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, flavouring, 2% blackcurrant",
+  "Version": 1,
+  "Translation Id": "416",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, flavouring, 2% cinnamon",
+  "Version": 1,
+  "Translation Id": "417",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, flavouring, 1% lemon peel, 1% lime peel",
+  "Version": 1,
+  "Translation Id": "418",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, flavouring, 2% mango",
+  "Version": 1,
+  "Translation Id": "419",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, flavouring, 1% peach, 1% passion fruit",
+  "Version": 1,
+  "Translation Id": "420",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, flavouring, 1% raspberry",
+  "Version": 1,
+  "Translation Id": "421",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, flavouring, 1% strawberry",
+  "Version": 1,
+  "Translation Id": "422",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, flavouring, 1% vanilla pods",
+  "Version": 1,
+  "Translation Id": "423",
+  "Translation": null
+ },
+ {
+  "Text": "Lime Flower (Blend Name)",
+  "Version": 1,
+  "Translation Id": "424",
+  "Translation": null
+ },
+ {
+  "Text": "Limeflower (Ingredient)",
+  "Version": 1,
+  "Translation Id": "425",
+  "Translation": null
+ },
+ {
+  "Text": "Verbena (Blend Name)",
+  "Version": 1,
+  "Translation Id": "426",
+  "Translation": null
+ },
+ {
+  "Text": "Verbena (Ingredient)",
+  "Version": 1,
+  "Translation Id": "427",
+  "Translation": null
+ },
+ {
+  "Text": "Packed in Kenya",
+  "Version": 1,
+  "Translation Id": "428",
+  "Translation": null
+ },
+ {
+  "Text": "Importer in Syria",
+  "Version": 1,
+  "Translation Id": "A429",
+  "Translation": "\u0627\u0644\u0648\u0643\u064a\u0644 \u0641\u064a \u0633\u0648\u0631\u064a\u0627 : \u0634\u0631\u0643\u0629 \u0627\u0644\u0623\u0633\u062f\u064a \u0627\u0644\u062a\u062c\u0627\u0631\u064a\u0629 "
+ },
+ {
+  "Text": "Summer Thyme(Blend Name)",
+  "Version": 1,
+  "Translation Id": "430a",
+  "Translation": null
+ },
+ {
+  "Text": "Summer Thyme(Tea Information)",
+  "Version": 1,
+  "Translation Id": "430b",
+  "Translation": null
+ },
+ {
+  "Text": "black loose tea, thyme  (Ingredients for Summer Thyme)",
+  "Version": 1,
+  "Translation Id": "431",
+  "Translation": null
+ },
+ {
+  "Text": "Winter Prune",
+  "Version": 1,
+  "Translation Id": "432",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, natural flavour",
+  "Version": 1,
+  "Translation Id": "433",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, flavouring, 2% fruit (apple, strawberry, lemon peel, lime peel, peach, passion fruit)",
+  "Version": 1,
+  "Translation Id": "434",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: Lemon & Ginger (Apple 30%, ginger 20%, lemongrass 20%, hibiscus 20%, lemon peel 5%, natural lemon-lime flavour 5%)",
+  "Version": 1,
+  "Translation Id": "435",
+  "Translation": null
+ },
+ {
+  "Text": "Lemon & Ginger",
+  "Version": 1,
+  "Translation Id": "436",
+  "Translation": null
+ },
+ {
+  "Text": "Green Tea Pure",
+  "Version": 1,
+  "Translation Id": "437",
+  "Translation": null
+ },
+ {
+  "Text": "Jasmine Romance",
+  "Version": 1,
+  "Translation Id": "438",
+  "Translation": null
+ },
+ {
+  "Text": "Mint Mystique",
+  "Version": 1,
+  "Translation Id": "439",
+  "Translation": null
+ },
+ {
+  "Text": "Lemon Vitality",
+  "Version": 1,
+  "Translation Id": "440",
+  "Translation": null
+ },
+ {
+  "Text": "Blueberry Brilliance",
+  "Version": 1,
+  "Translation Id": "441",
+  "Translation": null
+ },
+ {
+  "Text": "Raspberry & Pomegranate",
+  "Version": 1,
+  "Translation Id": "442",
+  "Translation": null
+ },
+ {
+  "Text": "Strawberry & Kiwi",
+  "Version": 1,
+  "Translation Id": "443",
+  "Translation": null
+ },
+ {
+  "Text": "Green tea",
+  "Version": 1,
+  "Translation Id": "444",
+  "Translation": null
+ },
+ {
+  "Text": "Green tea, jasmine flowers",
+  "Version": 1,
+  "Translation Id": "445",
+  "Translation": null
+ },
+ {
+  "Text": "Green tea, flavouring, 7% mint",
+  "Version": 1,
+  "Translation Id": "446",
+  "Translation": null
+ },
+ {
+  "Text": "Green tea, natural flavouring, 7% mint",
+  "Version": 1,
+  "Translation Id": "446a",
+  "Translation": null
+ },
+ {
+  "Text": "Green tea, flavouring, 3% lemon peel",
+  "Version": 1,
+  "Translation Id": "447",
+  "Translation": null
+ },
+ {
+  "Text": "Green tea, flavouring, 1% blueberry",
+  "Version": 1,
+  "Translation Id": "448",
+  "Translation": null
+ },
+ {
+  "Text": "Green tea, flavouring, 2.5% pomegranate, 1% raspberry",
+  "Version": 1,
+  "Translation Id": "449",
+  "Translation": null
+ },
+ {
+  "Text": "Green tea, flavouring, 1% (strawberry, kiwi)",
+  "Version": 1,
+  "Translation Id": "450",
+  "Translation": null
+ },
+ {
+  "Text": "Green Chinese tea, small size leaf, Raspberry and Pomegranate flavoured, teabags 20 x 2g",
+  "Version": 1,
+  "Translation Id": "451",
+  "Translation": null
+ },
+ {
+  "Text": "Green Chinese tea, small size leaf, Strawberry and Kiwi Duet flavoured, teabags 20 x 2g",
+  "Version": 1,
+  "Translation Id": "452",
+  "Translation": null
+ },
+ {
+  "Text": "Green Chinese tea, small size leaf, Blueberry flavoured, teabags 20 x 2g",
+  "Version": 1,
+  "Translation Id": "453",
+  "Translation": null
+ },
+ {
+  "Text": "Algerian importer",
+  "Version": 1,
+  "Translation Id": "454",
+  "Translation": null
+ },
+ {
+  "Text": "Sunny Lime",
+  "Version": 1,
+  "Translation Id": "455",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredient: Sunny lime (green tea, natural flavouring, lemon peels, lime peels) ",
+  "Version": 1,
+  "Translation Id": "456",
+  "Translation": null
+ },
+ {
+  "Text": "Noble Thyme",
+  "Version": 1,
+  "Translation Id": "457",
+  "Translation": null
+ },
+ {
+  "Text": "Green tea, Thyme, Rose petals, Strawberry flavouring",
+  "Version": 1,
+  "Translation Id": "458",
+  "Translation": null
+ },
+ {
+  "Text": "Ginger Puer",
+  "Version": 1,
+  "Translation Id": "459",
+  "Translation": null
+ },
+ {
+  "Text": "Puer tea, Ginger pieces, Lemon peel, Lemon grass, Ginger flavouring, Lemon flavouring.",
+  "Version": 1,
+  "Translation Id": "460",
+  "Translation": null
+ },
+ {
+  "Text": "91% Green tea, 9% black tea, bergamot flavouring",
+  "Version": 1,
+  "Translation Id": "461",
+  "Translation": null
+ },
+ {
+  "Text": "Mint Finesse Ingredients: Peppermint, Melissa",
+  "Version": 1,
+  "Translation Id": "462",
+  "Translation": null
+ },
+ {
+  "Text": "Safari Sunset Ingredients: Rooibos, Flavour (Vanilla-Cream, orange), Orange Peel, Vanilla Pods",
+  "Version": 1,
+  "Translation Id": "463",
+  "Translation": null
+ },
+ {
+  "Text": "Bilberry Dreams Ingredients: Hibiscus, Rosehips, Apples, Sweet Blackberry Leaves, Flavour (Billberry), Orange Peel, Elderberries, Billberries",
+  "Version": 1,
+  "Translation Id": "464",
+  "Translation": null
+ },
+ {
+  "Text": "Citrus Fiesta Ingredients: Apple Pomace, Apples Hibiscus, Orange Peel, Rosehip, Sweet Blackberry Leaves, Flavour (Acai Lemon), Citric Acid, Lemon Peel, Lime Peel",
+  "Version": 1,
+  "Translation Id": "465",
+  "Translation": null
+ },
+ {
+  "Text": "Green tea, flavouring, 5% mint",
+  "Version": 1,
+  "Translation Id": "466",
+  "Translation": null
+ },
+ {
+  "Text": "Green tea, flavouring, 3% lemon peel",
+  "Version": 1,
+  "Translation Id": "467",
+  "Translation": null
+ },
+ {
+  "Text": "Green tea, flavouring, 1% blueberry",
+  "Version": 1,
+  "Translation Id": "468",
+  "Translation": null
+ },
+ {
+  "Text": "Green tea, flavouring, 1% raspberry, 2.5% pomegranate",
+  "Version": 1,
+  "Translation Id": "469",
+  "Translation": null
+ },
+ {
+  "Text": "Green tea, flavouring, 1% raspberry, 2.5% pomegranate",
+  "Version": 1,
+  "Translation Id": "470",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "471",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "472",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "473",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "474",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "475",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "476",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "477",
+  "Translation": null
+ },
+ {
+  "Text": "Pomegranate Love",
+  "Version": 1,
+  "Translation Id": "478",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: Green Tea, flavouring (identical to natural)",
+  "Version": 1,
+  "Translation Id": "479",
+  "Translation": null
+ },
+ {
+  "Text": "Apple Rhapsody with Mint",
+  "Version": 1,
+  "Translation Id": "480",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients. Black Tea, flavouring (identical to natural)",
+  "Version": 1,
+  "Translation Id": "481",
+  "Translation": null
+ },
+ {
+  "Text": "Herbalist",
+  "Version": 1,
+  "Translation Id": "482",
+  "Translation": null
+ },
+ {
+  "Text": "Packed in England & Poland",
+  "Version": 1,
+  "Translation Id": "483",
+  "Translation": null
+ },
+ {
+  "Text": "Festive Orange",
+  "Version": 1,
+  "Translation Id": "484",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, orange flavouring",
+  "Version": 1,
+  "Translation Id": "485",
+  "Translation": null
+ },
+ {
+  "Text": "Spring Mint",
+  "Version": 1,
+  "Translation Id": "486",
+  "Translation": null
+ },
+ {
+  "Text": "Green Tea, Melissa, Spearmint, Lemongrass",
+  "Version": 1,
+  "Translation Id": "487",
+  "Translation": null
+ },
+ {
+  "Text": "Tea information for Festive Orange",
+  "Version": 1,
+  "Translation Id": "488",
+  "Translation": null
+ },
+ {
+  "Text": "Tea information for Spring Mint",
+  "Version": 1,
+  "Translation Id": "489",
+  "Translation": null
+ },
+ {
+  "Text": "Packed in England and Sri Lanka",
+  "Version": 1,
+  "Translation Id": "490",
+  "Translation": null
+ },
+ {
+  "Text": "Packed in England and RAK",
+  "Version": 1,
+  "Translation Id": "491",
+  "Translation": null
+ },
+ {
+  "Text": "Yunnan Mist",
+  "Version": 1,
+  "Translation Id": "492",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "493",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients of Yunnan Mist",
+  "Version": 1,
+  "Translation Id": "494",
+  "Translation": null
+ },
+ {
+  "Text": "Detox Infusion",
+  "Version": 1,
+  "Translation Id": "495",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: Detox (Fennel 14%, peppermint 14%, birch leaves 13%, rosemary 13%, dandelion root 11%, dandelion herb 11%, nettle leaves 10%, ginger root 10%, sweet blackberry leaves 4%)",
+  "Version": 1,
+  "Translation Id": "496",
+  "Translation": null
+ },
+ {
+  "Text": "Black loose tea flavoured with cardamon",
+  "Version": 1,
+  "Translation Id": "497",
+  "Translation": null
+ },
+ {
+  "Text": "English Tradition Black loose tea (short description of blend, description of Tea Leaf size)",
+  "Version": 1,
+  "Translation Id": "498",
+  "Translation": null
+ },
+ {
+  "Text": "Free Glass Inside",
+  "Version": 1,
+  "Translation Id": "499",
+  "Translation": null
+ },
+ {
+  "Text": "Strawberry & Cream",
+  "Version": 1,
+  "Translation Id": "500",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: Strawberry Cream (Black Tea, strawberry & vanilla flavouring, strawberry pieces, rose petals)",
+  "Version": 1,
+  "Translation Id": "501",
+  "Translation": null
+ },
+ {
+  "Text": "Tea Information: Strawberry Cream",
+  "Version": 1,
+  "Translation Id": "502",
+  "Translation": null
+ },
+ {
+  "Text": "Free Mug Inside",
+  "Version": 1,
+  "Translation Id": "503",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, small size leaf, Cardamon flavouring, teabags _x _g",
+  "Version": 1,
+  "Translation Id": "504",
+  "Translation": null
+ },
+ {
+  "Text": "Black loose tea, Cardamom flavouring ",
+  "Version": 1,
+  "Translation Id": "504a",
+  "Translation": null
+ },
+ {
+  "Text": "Classic Tea Selection (A selection of black and flavoured black teas)",
+  "Version": 1,
+  "Translation Id": "505",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "506",
+  "Translation": null
+ },
+ {
+  "Text": "Key Lime Pie",
+  "Version": 1,
+  "Translation Id": "507",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: Key Lime Pie (Green tea, natural flavouring, 1% citrus peel, marigold petals)",
+  "Version": 1,
+  "Translation Id": "508",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "509",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "510",
+  "Translation": null
+ },
+ {
+  "Text": "Registration number",
+  "Version": 1,
+  "Translation Id": "511",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "512",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "513",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "514",
+  "Translation": null
+ },
+ {
+  "Text": "Free sample leaflet",
+  "Version": 1,
+  "Translation Id": "515",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "516",
+  "Translation": null
+ },
+ {
+  "Text": "Sea Buckthorn Candies",
+  "Version": 1,
+  "Translation Id": "517",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: Sea Buckthorn Candies",
+  "Version": 1,
+  "Translation Id": "518",
+  "Translation": null
+ },
+ {
+  "Text": "Hazelnut Cookie",
+  "Version": 1,
+  "Translation Id": "519",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: Hazelnut Cookie",
+  "Version": 1,
+  "Translation Id": "520",
+  "Translation": null
+ },
+ {
+  "Text": "Mango Souffle",
+  "Version": 1,
+  "Translation Id": "521",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: Mango Souffle (Green tea, natural flavouring, 1% mango pieces, marigold petals)",
+  "Version": 1,
+  "Translation Id": "522",
+  "Translation": null
+ },
+ {
+  "Text": "Fruit Tea Selection (Blend description)",
+  "Version": 1,
+  "Translation Id": "523",
+  "Translation": null
+ },
+ {
+  "Text": "Set of black and green teas in teabags",
+  "Version": 1,
+  "Translation Id": "524",
+  "Translation": null
+ },
+ {
+  "Text": "Chocolate Brownie",
+  "Version": 1,
+  "Translation Id": "525",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: Chocolate Brownie",
+  "Version": 1,
+  "Translation Id": "526",
+  "Translation": null
+ },
+ {
+  "Text": "Strawberry Mousse",
+  "Version": 1,
+  "Translation Id": "527",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: Strawberry Mousse",
+  "Version": 1,
+  "Translation Id": "528",
+  "Translation": null
+ },
+ {
+  "Text": "Milk Oolong (Milk Oolong, flavoured semi-fermented black tea)",
+  "Version": 1,
+  "Translation Id": "529",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: Milk Oolong (Oolong tea, milk flavouring)",
+  "Version": 1,
+  "Translation Id": "530",
+  "Translation": null
+ },
+ {
+  "Text": "White Tea with Peach",
+  "Version": 1,
+  "Translation Id": "531",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: White Tea with Peach",
+  "Version": 1,
+  "Translation Id": "532",
+  "Translation": null
+ },
+ {
+  "Text": "Peppermint & Lemongrass",
+  "Version": 1,
+  "Translation Id": "533",
+  "Translation": null
+ },
+ {
+  "Text": "Mixed Berries & Hibiscus",
+  "Version": 1,
+  "Translation Id": "534",
+  "Translation": null
+ },
+ {
+  "Text": "Maple Syrup ",
+  "Version": 1,
+  "Translation Id": "535",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: Maple Syrup (Green Tea, maple syrup flavouring)",
+  "Version": 1,
+  "Translation Id": "536",
+  "Translation": null
+ },
+ {
+  "Text": "Primetime ",
+  "Version": 1,
+  "Translation Id": "537",
+  "Translation": null
+ },
+ {
+  "Text": "Imperial Blend",
+  "Version": 1,
+  "Translation Id": "538",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, natural flavouring",
+  "Version": 1,
+  "Translation Id": "539",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, flavouring",
+  "Version": 1,
+  "Translation Id": "540",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, Ginger pieces, Lemon peel, Lemon grass, natural flavour- ings,",
+  "Version": 1,
+  "Translation Id": "541",
+  "Translation": null
+ },
+ {
+  "Text": "Fennel 14%, Peppermint 14%, Birch leaves 13%, Rosemary 13%, Dandelion root 11%, Dandelion herb 11%, Nettle leaves 10%, Ginger root 10%, Sweet Blackberry Leaves 4%,",
+  "Version": 1,
+  "Translation Id": "542",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, Strawberry flavouring",
+  "Version": 1,
+  "Translation Id": "543",
+  "Translation": null
+ },
+ {
+  "Text": "Camomile & Lemongrass",
+  "Version": 1,
+  "Translation Id": "544",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "545",
+  "Translation": null
+ },
+ {
+  "Text": "Orange Blossom",
+  "Version": 1,
+  "Translation Id": "546",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "547",
+  "Translation": null
+ },
+ {
+  "Text": "London Blend (teabag blend name)",
+  "Version": 1,
+  "Translation Id": "548a",
+  "Translation": null
+ },
+ {
+  "Text": "London Blend (Loose tea blend name)",
+  "Version": 1,
+  "Translation Id": "548b",
+  "Translation": null
+ },
+ {
+  "Text": "Oriental Green tea",
+  "Version": 1,
+  "Translation Id": "549",
+  "Translation": null
+ },
+ {
+  "Text": "Batch Number",
+  "Version": 1,
+  "Translation Id": "550",
+  "Translation": null
+ },
+ {
+  "Text": "Green tea, flavouring, Jasmine flowers, 1% mint, 1% lemon peel (Selection Pack Ingredients)",
+  "Version": 1,
+  "Translation Id": "551",
+  "Translation": null
+ },
+ {
+  "Text": "Green Tea Selection    (Blend Info)",
+  "Version": 1,
+  "Translation Id": "552",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "553",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, tagless teabags  ... x ...g",
+  "Version": 1,
+  "Translation Id": "554",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea  ... x ...g",
+  "Version": 1,
+  "Translation Id": "555",
+  "Translation": null
+ },
+ {
+  "Text": "English Tradition Music Caddy",
+  "Version": 1,
+  "Translation Id": "556",
+  "Translation": null
+ },
+ {
+  "Text": "Ice Tea. Jasmine Green Tea",
+  "Version": 1,
+  "Translation Id": "557",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: Ice Tea. Jasmine Green Tea (Water, Sugar, Jasmine Green Tea, Lemon juice)",
+  "Version": 1,
+  "Translation Id": "558",
+  "Translation": null
+ },
+ {
+  "Text": "Ice Tea. Black Tea & Lemon",
+  "Version": 1,
+  "Translation Id": "559",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: Ice Tea. Black Tea & Lemon (Water, Sugar, Black Tea, Natural Citrus Flavouring, Lemon Juice)",
+  "Version": 1,
+  "Translation Id": "560",
+  "Translation": null
+ },
+ {
+  "Text": "Iced Tea. Lemon green tea",
+  "Version": 1,
+  "Translation Id": "561",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: Iced Tea. Lemon green tea (Water, Sugar, Green Tea, Natural Citrus Flavouring, Lemon Juice)",
+  "Version": 1,
+  "Translation Id": "562",
+  "Translation": null
+ },
+ {
+  "Text": "Happy Ramadan from Ahmad Tea",
+  "Version": 1,
+  "Translation Id": "563",
+  "Translation": null
+ },
+ {
+  "Text": "For production and expiry date: See Lid.",
+  "Version": 1,
+  "Translation Id": "564",
+  "Translation": null
+ },
+ {
+  "Text": "Volume 500 ml.",
+  "Version": 1,
+  "Translation Id": "565",
+  "Translation": null
+ },
+ {
+  "Text": "Refrigerate after opening and drink within 3 days.",
+  "Version": 1,
+  "Translation Id": "566",
+  "Translation": null
+ },
+ {
+  "Text": "Bottled in U.A.E.",
+  "Version": 1,
+  "Translation Id": "567",
+  "Translation": null
+ },
+ {
+  "Text": "Royal Afternoon",
+  "Version": 1,
+  "Translation Id": "568",
+  "Translation": null
+ },
+ {
+  "Text": "Chai Spice ",
+  "Version": 1,
+  "Translation Id": "569",
+  "Translation": null
+ },
+ {
+  "Text": "Pear Strudel",
+  "Version": 1,
+  "Translation Id": "570",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: Pear Strudel",
+  "Version": 1,
+  "Translation Id": "571",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "572",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "573",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "574",
+  "Translation": null
+ },
+ {
+  "Text": "Packed in Germany",
+  "Version": 1,
+  "Translation Id": "575",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "576",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "577",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "578",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "579",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "580",
+  "Translation": null
+ },
+ {
+  "Text": "Black Tea Selection & Shortbread",
+  "Version": 1,
+  "Translation Id": "581",
+  "Translation": null
+ },
+ {
+  "Text": "Black Tea Selection & Strawberry Conserve",
+  "Version": 1,
+  "Translation Id": "582",
+  "Translation": null
+ },
+ {
+  "Text": "For allergens, including cereals containing gluten, see ingredients in bold. May also contain nuts.",
+  "Version": 1,
+  "Translation Id": "583",
+  "Translation": null
+ },
+ {
+  "Text": "Strawberry Conserve (Ing: for 582)",
+  "Version": 1,
+  "Translation Id": "584",
+  "Translation": null
+ },
+ {
+  "Text": "Premium Blend, Black Tea",
+  "Version": 1,
+  "Translation Id": "585",
+  "Translation": null
+ },
+ {
+  "Text": "Fruit & Herbal Infusion",
+  "Version": 1,
+  "Translation Id": "586",
+  "Translation": null
+ },
+ {
+  "Text": "Tea Origin: India",
+  "Version": 1,
+  "Translation Id": "587",
+  "Translation": null
+ },
+ {
+  "Text": "Tea Origin: Sri Lanka",
+  "Version": 1,
+  "Translation Id": "588",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "589",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "590",
+  "Translation": null
+ },
+ {
+  "Text": " ... x ...g tea bags in the set",
+  "Version": 1,
+  "Translation Id": "591",
+  "Translation": null
+ },
+ {
+  "Text": "A selection of Fruit & Herb Infusion",
+  "Version": 1,
+  "Translation Id": "592",
+  "Translation": null
+ },
+ {
+  "Text": "A selection of black, green & flavoured teas",
+  "Version": 1,
+  "Translation Id": "593",
+  "Translation": null
+ },
+ {
+  "Text": "A selection of flavoured black & green teas",
+  "Version": 1,
+  "Translation Id": "594",
+  "Translation": null
+ },
+ {
+  "Text": "A selection of flavoured black teas",
+  "Version": 1,
+  "Translation Id": "595",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, flavouring, 2% fruit ( strawberry, blackcurrant, peach, passion fruit)",
+  "Version": 1,
+  "Translation Id": "596",
+  "Translation": null
+ },
+ {
+  "Text": "Green tea, flavouring, jasmine flowers, 1% mint, 1%\u2008lemon peel",
+  "Version": 1,
+  "Translation Id": "597",
+  "Translation": null
+ },
+ {
+  "Text": "Evergreen",
+  "Version": 1,
+  "Translation Id": "598",
+  "Translation": null
+ },
+ {
+  "Text": "Packed in England and United Arab Emirates",
+  "Version": 1,
+  "Translation Id": "599",
+  "Translation": null
+ },
+ {
+  "Text": "Premium Green Tea",
+  "Version": 1,
+  "Translation Id": "600",
+  "Translation": null
+ },
+ {
+  "Text": "Fine Tea Collection Ceylon tea ",
+  "Version": 1,
+  "Translation Id": "601",
+  "Translation": null
+ },
+ {
+  "Text": "Fine Tea Collection Earl Grey ",
+  "Version": 1,
+  "Translation Id": "602",
+  "Translation": null
+ },
+ {
+  "Text": "FTC Tea info: Earl Grey",
+  "Version": 1,
+  "Translation Id": "603",
+  "Translation": null
+ },
+ {
+  "Text": "Fine Tea Collection English Breakfast ",
+  "Version": 1,
+  "Translation Id": "604",
+  "Translation": null
+ },
+ {
+  "Text": "Fine Tea Collection Strawberry & Cream  ",
+  "Version": 1,
+  "Translation Id": "605",
+  "Translation": null
+ },
+ {
+  "Text": "Fine Tea Collection Orange Blossom ",
+  "Version": 1,
+  "Translation Id": "606",
+  "Translation": null
+ },
+ {
+  "Text": "FTC Tea info: Orange Blossom ",
+  "Version": 1,
+  "Translation Id": "607",
+  "Translation": null
+ },
+ {
+  "Text": "Fine Tea Collection Novel Thyme ",
+  "Version": 1,
+  "Translation Id": "608",
+  "Translation": null
+ },
+ {
+  "Text": "FTC Tea info: Novel Thyme ",
+  "Version": 1,
+  "Translation Id": "609",
+  "Translation": null
+ },
+ {
+  "Text": "FTC Tea info: Heavenly Oolong ",
+  "Version": 1,
+  "Translation Id": "610",
+  "Translation": null
+ },
+ {
+  "Text": "Green tea, 15% mint, mint flavouring (Loose tea ingredients)",
+  "Version": 1,
+  "Translation Id": "611",
+  "Translation": null
+ },
+ {
+  "Text": "Clove\u2008Tea (Teabag blend name)",
+  "Version": 1,
+  "Translation Id": "612",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, 8% Clove pieces (ingredients-teabags)",
+  "Version": 1,
+  "Translation Id": "613",
+  "Translation": null
+ },
+ {
+  "Text": "Tea Information: Clove\u2008Tea",
+  "Version": 1,
+  "Translation Id": "614",
+  "Translation": null
+ },
+ {
+  "Text": "Fine Tea Collection English Afternoon ",
+  "Version": 1,
+  "Translation Id": "615",
+  "Translation": null
+ },
+ {
+  "Text": "Barooti Assam",
+  "Version": 1,
+  "Translation Id": "616",
+  "Translation": null
+ },
+ {
+  "Text": "Kalami Assam",
+  "Version": 1,
+  "Translation Id": "617",
+  "Translation": null
+ },
+ {
+  "Text": "Nutrition values : Detox (Typical nutritional values per 100ml of brewed infusion: energy 3kJ, 1kcal / fat 0g; of which saturates 0g / carbohydrate 0.2g; of which sugars < 0.1g / protein 0g / salt 0g)",
+  "Version": 1,
+  "Translation Id": "618",
+  "Translation": null
+ },
+ {
+  "Text": "Mint Green Tea (With pieces teabags)",
+  "Version": 1,
+  "Translation Id": "619",
+  "Translation": null
+ },
+ {
+  "Text": "Mint Green Tea (With pieces Loose)",
+  "Version": 1,
+  "Translation Id": "620",
+  "Translation": null
+ },
+ {
+  "Text": "Lemon & Lime Flavoured Cold Brew Iced Black Tea",
+  "Version": 1,
+  "Translation Id": "621",
+  "Translation": null
+ },
+ {
+  "Text": "\ufeffBlack tea, Flavouring, 0.5% Lemon Peel, 0.5% Lime Peel",
+  "Version": 1,
+  "Translation Id": "622",
+  "Translation": null
+ },
+ {
+  "Text": "Peach & Passion Fruit Flavoured Cold Brew Iced Black Tea  ",
+  "Version": 1,
+  "Translation Id": "623",
+  "Translation": null
+ },
+ {
+  "Text": "\ufeffBlack tea, Flavouring, 0.5% Peach, 0.5% Passion Fruit ",
+  "Version": 1,
+  "Translation Id": "624",
+  "Translation": null
+ },
+ {
+  "Text": "English Tea Cold Brew Iced Black Tea ",
+  "Version": 1,
+  "Translation Id": "625",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, natural tea flavouring, light bergamot flavouring ",
+  "Version": 1,
+  "Translation Id": "626",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, 5% lemon peel, lemon flavouring (Lemon loose Tea - Ingredients)",
+  "Version": 1,
+  "Translation Id": "627",
+  "Translation": null
+ },
+ {
+  "Text": "Rich Tea ",
+  "Version": 1,
+  "Translation Id": "628",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "629",
+  "Translation": null
+ },
+ {
+  "Text": "Mango and lychee oil",
+  "Version": 1,
+  "Translation Id": "630",
+  "Translation": null
+ },
+ {
+  "Text": "Gunpowder Surpreme",
+  "Version": 1,
+  "Translation Id": "631",
+  "Translation": null
+ },
+ {
+  "Text": "Green tea, natural mint flavouring, 5% mint  (Teabag Ingredients)",
+  "Version": 1,
+  "Translation Id": "632",
+  "Translation": null
+ },
+ {
+  "Text": "Moroccan Orange Slice ",
+  "Version": 1,
+  "Translation Id": "633",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: Moroccan Orange Slice  (Black tea, flavouring, marigold petals)",
+  "Version": 1,
+  "Translation Id": "634",
+  "Translation": null
+ },
+ {
+  "Text": "Strawberry Velvet Cake",
+  "Version": 1,
+  "Translation Id": "635",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: Strawberry Velvet Cake (Black tea, natural flavouring, rose petals)",
+  "Version": 1,
+  "Translation Id": "636",
+  "Translation": null
+ },
+ {
+  "Text": "Pear & Cinnamon Strudel  ",
+  "Version": 1,
+  "Translation Id": "637",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: Pear & Cinnamon Strudel (Black tea, natural flavouring, 4% cinnamon, 1.5% pear) ",
+  "Version": 1,
+  "Translation Id": "638",
+  "Translation": null
+ },
+ {
+  "Text": "Strawberry & Basil Coulis   ",
+  "Version": 1,
+  "Translation Id": "639",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: Strawberry & Basil Coulis  (Green tea, flavouring, rose petals)",
+  "Version": 1,
+  "Translation Id": "640",
+  "Translation": null
+ },
+ {
+  "Text": "Citurs Mint Sorbet ",
+  "Version": 1,
+  "Translation Id": "641",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: Citurs Mint Sorbet  (Green tea, natural flavouring, 3% spearmint, 2.5% citrus peel, marigold petals (INGREDIENTS FOR 641)",
+  "Version": 1,
+  "Translation Id": "642",
+  "Translation": null
+ },
+ {
+  "Text": "Mango & Lychee Souffl\u00e9 ",
+  "Version": 1,
+  "Translation Id": "643",
+  "Translation": null
+ },
+ {
+  "Text": "Lord Grey ",
+  "Version": 1,
+  "Translation Id": "644",
+  "Translation": null
+ },
+ {
+  "Text": "Emerald Green Tea",
+  "Version": 1,
+  "Translation Id": "645",
+  "Translation": null
+ },
+ {
+  "Text": "Green tea, mint 15%, flavouring              ",
+  "Version": 1,
+  "Translation Id": "646",
+  "Translation": null
+ },
+ {
+  "Text": "Green tea, natural flavouring, spearmint 3%, strawberry 1%, red safflowers",
+  "Version": 1,
+  "Translation Id": "647",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: Double Mint & Liquorice (Spearmint leaves 40%, Peppermint leaves 34%, liquorice root 20%, fennel 6%)",
+  "Version": 1,
+  "Translation Id": "648",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: Camomile & Honey (Camomile 74%, liquorice root, natural flavouring 10%, fennel, vanilla 1%)",
+  "Version": 1,
+  "Translation Id": "649",
+  "Translation": null
+ },
+ {
+  "Text": "Lemongrass 41%, ginger root 15%, silver linden flowers, lemon verbena 10%, natural flavouring, liquorice root, blackberry leaves, lemon peel 1%",
+  "Version": 1,
+  "Translation Id": "650",
+  "Translation": null
+ },
+ {
+  "Text": "Spearmint leaves, nettle leaves 15%, ginger root 10%, fennel 10%, hibiscus, orange peel, liquorice root, cinnamon bark, camomile, cloves",
+  "Version": 1,
+  "Translation Id": "651",
+  "Translation": null
+ },
+ {
+  "Text": "Royal Earl Grey",
+  "Version": 1,
+  "Translation Id": "652",
+  "Translation": null
+ },
+ {
+  "Text": "Royal Breakfast",
+  "Version": 1,
+  "Translation Id": "653",
+  "Translation": null
+ },
+ {
+  "Text": "Chun Mee Leaf",
+  "Version": 1,
+  "Translation Id": "654",
+  "Translation": null
+ },
+ {
+  "Text": "Midnight Jasmine Blossom",
+  "Version": 1,
+  "Translation Id": "655",
+  "Translation": null
+ },
+ {
+  "Text": "Moroccan Mint Majesty",
+  "Version": 1,
+  "Translation Id": "656",
+  "Translation": null
+ },
+ {
+  "Text": "Strawberry Mint Medley",
+  "Version": 1,
+  "Translation Id": "657",
+  "Translation": null
+ },
+ {
+  "Text": "Double Mint & Liquorice",
+  "Version": 1,
+  "Translation Id": "658",
+  "Translation": null
+ },
+ {
+  "Text": "Camomile & Honey",
+  "Version": 1,
+  "Translation Id": "659",
+  "Translation": null
+ },
+ {
+  "Text": "Golden Lemongrass & Ginger",
+  "Version": 1,
+  "Translation Id": "660",
+  "Translation": null
+ },
+ {
+  "Text": "Garden Detox",
+  "Version": 1,
+  "Translation Id": "661",
+  "Translation": null
+ },
+ {
+  "Text": "Natural Herbals",
+  "Version": 1,
+  "Translation Id": "662",
+  "Translation": null
+ },
+ {
+  "Text": "Importer in Jordan:",
+  "Version": 1,
+  "Translation Id": "663",
+  "Translation": null
+ },
+ {
+  "Text": "A selection of black, green and flavoured teas, and fruit and herbal infusions",
+  "Version": 1,
+  "Translation Id": "664",
+  "Translation": null
+ },
+ {
+  "Text": "Super Pekoe",
+  "Version": 1,
+  "Translation Id": "665",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, flavouring, 2% fruit (blackcurrant, strawberry, lemon peel, lime peel, peach, passion fruit) (Tea Master fruit ingredients)",
+  "Version": 1,
+  "Translation Id": "666",
+  "Translation": null
+ },
+ {
+  "Text": "Green tea, jasmine green tea, flavouring, 1% mint, 0.25% fruit (strawberry, kiwi) (Tea Master green ingredients)",
+  "Version": 1,
+  "Translation Id": "667",
+  "Translation": null
+ },
+ {
+  "Text": "packed in USA",
+  "Version": 1,
+  "Translation Id": "668",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, flavouring, 2% fruit (strawberry, lemon peel, lime peel, peach, passion fruit)",
+  "Version": 1,
+  "Translation Id": "669",
+  "Translation": null
+ },
+ {
+  "Text": "Green tea, jasmine green tea, flavouring, 2% mint",
+  "Version": 1,
+  "Translation Id": "670",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, flavouring, 2% fruit (blackcurrant, peach, passion fruit) (Fruit Tea ingredients for London Selection) ",
+  "Version": 1,
+  "Translation Id": "671",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "672",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "673",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, flavouring, 2% fruit (lemon peel, lime peel, peach, passion fruit) (Fruit Tea ingredients for London Selection)",
+  "Version": 1,
+  "Translation Id": "674",
+  "Translation": null
+ },
+ {
+  "Text": "Classic Black Tea",
+  "Version": 1,
+  "Translation Id": "675",
+  "Translation": null
+ },
+ {
+  "Text": "Chinese Green Tea",
+  "Version": 1,
+  "Translation Id": "676",
+  "Translation": null
+ },
+ {
+  "Text": "Tea info: Classic Black Tea ",
+  "Version": 1,
+  "Translation Id": "677",
+  "Translation": null
+ },
+ {
+  "Text": "Tea info: Chinese Green Tea ",
+  "Version": 1,
+  "Translation Id": "678",
+  "Translation": null
+ },
+ {
+  "Text": "Kenyan Tea",
+  "Version": 1,
+  "Translation Id": "679",
+  "Translation": null
+ },
+ {
+  "Text": "Detox: Supplement Facts 1 Teabag makes 7 fl oz, Proprietary Blend of Herbs 2g, Fennel*, Peppermint*, Birch leaves*, Rosemary*, Dandelion root*, Dandelion herb*, Nettle leaves*, Ginger root*, Sweet blackberry leaves*, *Daily value not established.  If you are pregnant or nursing, consult your health care practitioner first before using.",
+  "Version": 1,
+  "Translation Id": "680",
+  "Translation": null
+ },
+ {
+  "Text": "A selection of black and flavoured black tea ",
+  "Version": 1,
+  "Translation Id": "681",
+  "Translation": null
+ },
+ {
+  "Text": "A selection of green and flavoured green tea ",
+  "Version": 1,
+  "Translation Id": "682",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "683",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "684",
+  "Translation": null
+ },
+ {
+  "Text": "Produced by Ahmad Tea LLC, Ras Al Khaimah, UAE, for Ahmad Tea Ltd, 1 Wood St., London, EC2V 7WS, UK",
+  "Version": 1,
+  "Translation Id": "685",
+  "Translation": null
+ },
+ {
+  "Text": "Produced and packed by Ahmad Tea (Pvt) Limited, Colombo, Sri Lanka for Ahmad Tea Ltd., 1 Wood St., London, EC2V 7WS, UK",
+  "Version": 1,
+  "Translation Id": "685a",
+  "Translation": null
+ },
+ {
+  "Text": "Produced and packed by Ahmad Tea FZ \u2013 LLC, Ras Al Khaimah, United Arab Emirates, for Ahmad Tea Ltd., 1 Wood St., London, EC2V 7WS, UK",
+  "Version": 1,
+  "Translation Id": "685b",
+  "Translation": null
+ },
+ {
+  "Text": "Cardamom Green Tea (Blend name-teabag)",
+  "Version": 1,
+  "Translation Id": "686a",
+  "Translation": null
+ },
+ {
+  "Text": "Cardamom Green Tea (Blend name- loose tea)",
+  "Version": 1,
+  "Translation Id": "686a",
+  "Translation": null
+ },
+ {
+  "Text": "Green tea, cardamom flavouring (Ingredients)",
+  "Version": 1,
+  "Translation Id": "687",
+  "Translation": null
+ },
+ {
+  "Text": "A selection of green and flavoured black teas",
+  "Version": 1,
+  "Translation Id": "688",
+  "Translation": null
+ },
+ {
+  "Text": "Ceylon Premium",
+  "Version": 1,
+  "Translation Id": "689",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: Lemon & Lime Flavoured Cold Brew Iced Black Tea (Black tea, lemon & lime flavouring, 0.5% Lemon Peel, 0.5% Lime Peel, natural tea flavouring) ",
+  "Version": 1,
+  "Translation Id": "690",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: Peach & Passion Fruit Flavoured Cold Brew Iced Black Tea  (Black tea, peach & passion fruit flavouring, 0.5% Peach, 0.5% Passion Fruit. natural tea flavouring) ",
+  "Version": 1,
+  "Translation Id": "691",
+  "Translation": null
+ },
+ {
+  "Text": "Lemon & Lime Flavoured Cold Brew Iced Black Tea  ",
+  "Version": 1,
+  "Translation Id": "692",
+  "Translation": null
+ },
+ {
+  "Text": "Peach & Passion Fruit Flavoured Cold Brew Iced Black Tea ",
+  "Version": 1,
+  "Translation Id": "693",
+  "Translation": null
+ },
+ {
+  "Text": "Importer in Qatar",
+  "Version": 1,
+  "Translation Id": "694",
+  "Translation": null
+ },
+ {
+  "Text": "Importer in Saudi arabia",
+  "Version": 1,
+  "Translation Id": "695",
+  "Translation": null
+ },
+ {
+  "Text": "Importer in Iraq",
+  "Version": 1,
+  "Translation Id": "696",
+  "Translation": null
+ },
+ {
+  "Text": "Importer in Lebanon",
+  "Version": 1,
+  "Translation Id": "697",
+  "Translation": null
+ },
+ {
+  "Text": "Importer in UAE (United Arab Emirates)",
+  "Version": 1,
+  "Translation Id": "698",
+  "Translation": null
+ },
+ {
+  "Text": "Ahmad Tea USA, 3701 Pender Drive, Suite 100, Fairfax, VA 22030, Tel: 211-476-4110, 281-476-4832, Email: info@ahmadteausa.com",
+  "Version": 1,
+  "Translation Id": "699",
+  "Translation": null
+ },
+ {
+  "Text": "Green tea from China",
+  "Version": 1,
+  "Translation Id": "700",
+  "Translation": null
+ },
+ {
+  "Text": "Green tea from China, with mint flavouring and mint leaves",
+  "Version": 1,
+  "Translation Id": "701",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "702",
+  "Translation": null
+ },
+ {
+  "Text": "Ginger Chai ",
+  "Version": 1,
+  "Translation Id": "703",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, 15% ginger, 8% cinnamon, flavouring, 1% clove (Ingredients: Chai Spice Teabags)",
+  "Version": 1,
+  "Translation Id": "704",
+  "Translation": null
+ },
+ {
+  "Text": "Mango & Lychee, flavoured green tea ",
+  "Version": 1,
+  "Translation Id": "705",
+  "Translation": null
+ },
+ {
+  "Text": "Green tea, flavouring, 1% mango ",
+  "Version": 1,
+  "Translation Id": "706",
+  "Translation": null
+ },
+ {
+  "Text": "Camomile 78%, Natural Flavouring 8%, Liquorice Root 7%, Fennel 5%, Vanilla 1%, Honey Pieces 1%  ",
+  "Version": 1,
+  "Translation Id": "707",
+  "Translation": null
+ },
+ {
+  "Text": "Lemon & Mint Flavoured Cold Brew Iced Green Tea ",
+  "Version": 1,
+  "Translation Id": "708",
+  "Translation": null
+ },
+ {
+  "Text": "Green tea, 1% Spearmint, 0.5% Lemon peel, flavouring, natural tea flavouring  ",
+  "Version": 1,
+  "Translation Id": "709",
+  "Translation": null
+ },
+ {
+  "Text": "Flavoured Cold Brew Iced Green Tea ",
+  "Version": 1,
+  "Translation Id": "710",
+  "Translation": null
+ },
+ {
+  "Text": "Green tea, natural tea flavouring  ",
+  "Version": 1,
+  "Translation Id": "711",
+  "Translation": null
+ },
+ {
+  "Text": "Long Leaf, black tea ",
+  "Version": 1,
+  "Translation Id": "712",
+  "Translation": null
+ },
+ {
+  "Text": "Mango & Lychee Flavoured Cold Brew Iced Green Tea  ",
+  "Version": 1,
+  "Translation Id": "713",
+  "Translation": null
+ },
+ {
+  "Text": "Green tea, 1% Mango, 1% Lychee, flavouring, natural tea flavouring",
+  "Version": 1,
+  "Translation Id": "714",
+  "Translation": null
+ },
+ {
+  "Text": "Camomile, Honey & Vanilla",
+  "Version": 1,
+  "Translation Id": "715",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, apple flavouring, 2% Apple",
+  "Version": 1,
+  "Translation Id": "716",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, mango flavouring, 2% Mango",
+  "Version": 1,
+  "Translation Id": "717",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, peach & passion flavouring, 1% Peach, 1% Passion Fruit",
+  "Version": 1,
+  "Translation Id": "718",
+  "Translation": null
+ },
+ {
+  "Text": "Green tea, mint 18%, flavouring",
+  "Version": 1,
+  "Translation Id": "719",
+  "Translation": null
+ },
+ {
+  "Text": "Blueberry Breeze ",
+  "Version": 1,
+  "Translation Id": "720",
+  "Translation": null
+ },
+ {
+  "Text": "Citrus Sensation  ",
+  "Version": 1,
+  "Translation Id": "721",
+  "Translation": null
+ },
+ {
+  "Text": "Indian\u00a0Assam\u00a0Tea ",
+  "Version": 1,
+  "Translation Id": "722",
+  "Translation": null
+ },
+ {
+  "Text": "Blend Description: Selection Packs ",
+  "Version": 1,
+  "Translation Id": "723",
+  "Translation": null
+ },
+ {
+  "Text": "Classic Grey",
+  "Version": 1,
+  "Translation Id": "724",
+  "Translation": null
+ },
+ {
+  "Text": "Ingredients: (ING: Chai Spice UK ONLY)",
+  "Version": 1,
+  "Translation Id": "725",
+  "Translation": null
+ },
+ {
+  "Text": "Full Leaf, black tea ",
+  "Version": 1,
+  "Translation Id": "726",
+  "Translation": null
+ },
+ {
+  "Text": "Green tea, flavouring, 1% Mango, 1% Lychee ",
+  "Version": 1,
+  "Translation Id": "727",
+  "Translation": null
+ },
+ {
+  "Text": "Green Chinese tea, small size leaf, mango & lychee flavoured, teabags  ... x ...g",
+  "Version": 1,
+  "Translation Id": "728",
+  "Translation": null
+ },
+ {
+  "Text": "Free sample not intended for resale",
+  "Version": 1,
+  "Translation Id": "729",
+  "Translation": null
+ },
+ {
+  "Text": "Gluten Free",
+  "Version": 1,
+  "Translation Id": "730",
+  "Translation": null
+ },
+ {
+  "Text": "A selection of flavoured black teas and herbal infusion ",
+  "Version": 1,
+  "Translation Id": "731",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, flavouring, fruit (blackcurrant, mango, peach, passion fruit, raspberry)",
+  "Version": 1,
+  "Translation Id": "732",
+  "Translation": null
+ },
+ {
+  "Text": "A selection of black tea, flavoured black teas, flavoured green tea and herbal infusions",
+  "Version": 1,
+  "Translation Id": "733",
+  "Translation": null
+ },
+ {
+  "Text": "Fruit & Herb Cold Brew Iced Infusion ",
+  "Version": 1,
+  "Translation Id": "734",
+  "Translation": null
+ },
+ {
+  "Text": "Hibiscus, rosehip, apple, roasted chicory root, orange peels, stevia herb, elderberry 4%, flavouring 3% (raspberry, strawberry, cherry), strawberry 0.1%, raspberry 0.1%, cherry juice granules 0.1%  ",
+  "Version": 1,
+  "Translation Id": "735",
+  "Translation": null
+ },
+ {
+  "Text": "Strawberry & Chilli Fruit & Herbal Infusion",
+  "Version": 1,
+  "Translation Id": "736",
+  "Translation": null
+ },
+ {
+  "Text": "Hibiscus 30%, rosehips 24%, apple pomace 19.4%, apple 11%, orange peels 5%, chilli 3%, roasted chicory root 1%, natural flavouring 3%, stevia herb 2.5%, cinnamon 1%, strawberries 0.1%  ",
+  "Version": 1,
+  "Translation Id": "737",
+  "Translation": null
+ },
+ {
+  "Text": "Raspberry & Peach Fruit & Herbal Infusion",
+  "Version": 1,
+  "Translation Id": "738",
+  "Translation": null
+ },
+ {
+  "Text": "Hibiscus 31.8%, apple pomace 28%, apple 20%, orange peels 10%, natural flavouring 5.5%, roasted chicory root 3%, stevia 1.5%, raspberry 0.1%, peach juice granules 0.1%  ",
+  "Version": 1,
+  "Translation Id": "739",
+  "Translation": null
+ },
+ {
+  "Text": "Sweet Strawberries Fruit & Herbal Infusion ",
+  "Version": 1,
+  "Translation Id": "740",
+  "Translation": null
+ },
+ {
+  "Text": "Apple pomace 38,6%, hibiscus 30,6%, sweet blackberry leaf 10%, apple 10%, flavouring 5,6%, orange peel 5%, strawberry 0,1%, elderberry 0,1% ",
+  "Version": 1,
+  "Translation Id": "741",
+  "Translation": null
+ },
+ {
+  "Text": "Forest Berries Fruit & Herbal Infusion",
+  "Version": 1,
+  "Translation Id": "742",
+  "Translation": null
+ },
+ {
+  "Text": "Hibiscus 48%, apple pomace 23%, sweet blackberry leaf 15%, flavouring 5,7%, apple 3%, rosehip 2%, elderberry 2%, orange peel 1%, raspberry 0,1%, blackberry 0,1%, blueberry 0,1%  (ingredients)",
+  "Version": 1,
+  "Translation Id": "743",
+  "Translation": null
+ },
+ {
+  "Text": "English Breakfast Extra Strong, black tea. (EU)",
+  "Version": 1,
+  "Translation Id": "744",
+  "Translation": null
+ },
+ {
+  "Text": "English Breakfast Extra Strong (Non EU)",
+  "Version": 1,
+  "Translation Id": "744a",
+  "Translation": null
+ },
+ {
+  "Text": "Green tea, jasmine green tea, flavouring, 2% mint, 1% fruit (raspberry, pomegranate)",
+  "Version": 1,
+  "Translation Id": "745",
+  "Translation": null
+ },
+ {
+  "Text": "Lemon, Ginger & Turmeric Fruit & Herbal Infusion with Vitamin C (Immunity Herbal Infusion)",
+  "Version": 1,
+  "Translation Id": "746",
+  "Translation": null
+ },
+ {
+  "Text": "Lemongrass 42.5%, lemon verbena, nettle 10%, ginger root 10%, turmeric rhizome 5%, lemon balm, peppermint, flavouring 4%, liquorice root, lemon peel 3%, vitamin C 2%, linden flowers (Ingredients for 745) ",
+  "Version": 1,
+  "Translation Id": "747",
+  "Translation": null
+ },
+ {
+  "Text": "Lemon, Mate & Matcha: Green Tea, Fruit & Herbal Infusion with Zinc & Mate  ",
+  "Version": 1,
+  "Translation Id": "748",
+  "Translation": null
+ },
+ {
+  "Text": "Green tea 26%, nettle leaves 16%, spearmint 16%, green mate leaves 10%, blackberry leaves, peppermint, lemon balm, flavouring 6%, zinc gluconate 2.5%, matcha granules 1.5% (Ingredients for 748)",
+  "Version": 1,
+  "Translation Id": "749",
+  "Translation": null
+ },
+ {
+  "Text": "Grapefruit, Mate & Guarana Seed Fruit & Herbal Infusion with Vitamin B6 (Energy Herbal Infusion)",
+  "Version": 1,
+  "Translation Id": "750",
+  "Translation": null
+ },
+ {
+  "Text": "Lemongrass 25.5%, lemon verbena leaves, peppermint 15%, honeybush 12%, green mate leaves 12%, guarana seed 6%, cinnamon bark, liquorice root, flavouring 3%, grapefruit peel 1%, vitamin B6 1%, manganese citrate 1%, marigold flower  (Ingredients for 750)",
+  "Version": 1,
+  "Translation Id": "751",
+  "Translation": null
+ },
+ {
+  "Text": "Sweet Mint & Fennel Herbal Infusion with Biotin & Spearmint (Digestion Herbal Infusion)",
+  "Version": 1,
+  "Translation Id": "752",
+  "Translation": null
+ },
+ {
+  "Text": "Fennel 33%, camomile 18%, peppermint 15%, spearmint 12%, liquorice root 10%, blackberry leaves, sodium selenite 1%, biotin 1% (Ingredients for 752)",
+  "Version": 1,
+  "Translation Id": "753",
+  "Translation": null
+ },
+ {
+  "Text": "Camomile, Honey & Lavender Herbal Infusion with Passion Flower (Sleep Herbal Infusion)",
+  "Version": 1,
+  "Translation Id": "754",
+  "Translation": null
+ },
+ {
+  "Text": "Camomile 38%, lemon balm 22%, passion flower 10%, peppermint, lemongrass, flavouring 4%, lemon verbena, linden flowers 3%, lavender flowers 2%, honey pieces 0.1% (Ingredients for 754)",
+  "Version": 1,
+  "Translation Id": "755",
+  "Translation": null
+ },
+ {
+  "Text": "Peach, Carob & Red Rose Petals Fruit & Herbal Infusion with Aloe Vera (Beauty Herbal Infusion)",
+  "Version": 1,
+  "Translation Id": "756",
+  "Translation": null
+ },
+ {
+  "Text": "Nettle leaves 30%, lemon verbena leaves, lemon balm, lemongrass 15%, roasted chicory root 10%, linden flowers 5%, flavouring 4.4%, roasted carob 4%, red rose petals 1%, aloe vera granules 0.5%, peach juice granules 0.1% (Ingredients for 756)",
+  "Version": 1,
+  "Translation Id": "757",
+  "Translation": null
+ },
+ {
+  "Text": "Silk Road Green ",
+  "Version": 1,
+  "Translation Id": "758",
+  "Translation": null
+ },
+ {
+  "Text": "Royal Gunpowder",
+  "Version": 1,
+  "Translation Id": "759",
+  "Translation": null
+ },
+ {
+  "Text": "London Afternoon ",
+  "Version": 1,
+  "Translation Id": "760",
+  "Translation": null
+ },
+ {
+  "Text": "Typical nutritional values per 100ml of brewed infusion: energy 3kJ, 1kcal / fat 0g; of which saturates 0g / carbohydrate <0.5g; of which sugars < 0.5g / protein 0g / salt 0g / vitamin C 7.5mg (8% of NRV) (Nutritional Information for 746)",
+  "Version": 1,
+  "Translation Id": "761",
+  "Translation": null
+ },
+ {
+  "Text": "Typical nutritional values per 100ml of brewed infusion: energy 3kJ, 1kcal / fat 0g; of which saturates 0g / carbohydrate <0.5g; of which sugars < 0.5g / protein 0g / salt 0g / zinc 0.9mg (9% of NRV) (Nutritional Information for 748) ",
+  "Version": 1,
+  "Translation Id": "762",
+  "Translation": null
+ },
+ {
+  "Text": "Typical nutritional values per 100ml of brewed infusion: energy 3kJ, 1kcal / fat 0g; of which saturates 0g / carbohydrate <0.5g; of which sugars < 0.5g / protein 0g / salt 0g / vitamin B6 0.13mg (8% of NRV) / manganese 0.19mg (8% of NRV). (Nutritional Information for 750)",
+  "Version": 1,
+  "Translation Id": "763",
+  "Translation": null
+ },
+ {
+  "Text": "Typical nutritional values per 100ml of brewed infusion: energy 3kJ, 1kcal / fat 0g; of which saturates 0g / carbohydrate <0.5g; of which sugars < 0.5g / protein 0g / salt 0g / biotin 25 \u03bcg (50% of NRV) / selenium 6.9\u03bcg (12.5% of NRV)  (Nutritional Information for 752)",
+  "Version": 1,
+  "Translation Id": "764",
+  "Translation": null
+ },
+ {
+  "Text": "Typical nutritional values per 100ml of brewed infusion: energy 3kJ, 1kcal / fat 0g; of which saturates 0g / carbohydrate <0.5g; of which sugars < 0.5g / protein 0g / salt 0g (Nutritional Information for 754 & 756)",
+  "Version": 1,
+  "Translation Id": "765",
+  "Translation": null
+ },
+ {
+  "Text": "Importer par: Copralim Hay Moulay Abdellah Rue 305 No 28 Ain chock Casablanca MAROC (Morocco Importer)",
+  "Version": 1,
+  "Translation Id": "766",
+  "Translation": null
+ },
+ {
+  "Text": "Royal Chai, Flavoured Black Tea. (EU)",
+  "Version": 1,
+  "Translation Id": "767",
+  "Translation": null
+ },
+ {
+  "Text": "Royal Chai (NON EU)",
+  "Version": 1,
+  "Translation Id": "768",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, cinnamon 15%, ginger 10%, pepper, pink pepper, cardamom 2%, star anise 2%, clove (ING for 767 & 768)",
+  "Version": 1,
+  "Translation Id": "769",
+  "Translation": null
+ },
+ {
+  "Text": "Supreme Lemon & Matcha, Green Tea & Herbal Infusion (EU)",
+  "Version": 1,
+  "Translation Id": "770",
+  "Translation": null
+ },
+ {
+  "Text": "Supreme Lemon & Matcha (NON EU)",
+  "Version": 1,
+  "Translation Id": "771",
+  "Translation": null
+ },
+ {
+  "Text": "Green tea, lemon verbena, spearmint 10%, peppermint, natural lemon flavouring 2%, matcha granules 2% (ING for 770 & 771)",
+  "Version": 1,
+  "Translation Id": "772",
+  "Translation": null
+ },
+ {
+  "Text": "Salted Caramel Macarons, Flavoured Green Tea (EU)",
+  "Version": 1,
+  "Translation Id": "773",
+  "Translation": null
+ },
+ {
+  "Text": "Salted Caramel Macarons (NON EU)",
+  "Version": 1,
+  "Translation Id": "774",
+  "Translation": null
+ },
+ {
+  "Text": "Green tea, natural flavouring 6% (ING for 773 & 774)",
+  "Version": 1,
+  "Translation Id": "775",
+  "Translation": null
+ },
+ {
+  "Text": "Apple & Vanilla Crumble, Fruit & Herbal Infusion (EU)",
+  "Version": 1,
+  "Translation Id": "776",
+  "Translation": null
+ },
+ {
+  "Text": "Apple & Vanilla Crumble (NON EU)",
+  "Version": 1,
+  "Translation Id": "777",
+  "Translation": null
+ },
+ {
+  "Text": "Apple 42%, rosehip 15%, chicory 10%, liquorice, orange peel, natural flavouring 7%, cinnamon, clove  (ING for 777 & 778)",
+  "Version": 1,
+  "Translation Id": "778",
+  "Translation": null
+ },
+ {
+  "Text": "Cacao & Honey Truffle, Herbal Infusion (EU)",
+  "Version": 1,
+  "Translation Id": "779",
+  "Translation": null
+ },
+ {
+  "Text": "Cacao & Honey Truffle (NON EU)",
+  "Version": 1,
+  "Translation Id": "780",
+  "Translation": null
+ },
+ {
+  "Text": "Cacao husks 32%, lemongrass, rooibos, liquorice, camomile, natural flavouring 6%, cacao beans 5%, chicory (ING for 779 & 780)",
+  "Version": 1,
+  "Translation Id": "781",
+  "Translation": null
+ },
+ {
+  "Text": "Mixed Berry Boost, Fruit & Herbal Infusion with Vitamin B6 (EU)",
+  "Version": 1,
+  "Translation Id": "782",
+  "Translation": null
+ },
+ {
+  "Text": "Mixed Berry Boost (NON EU)",
+  "Version": 1,
+  "Translation Id": "783",
+  "Translation": null
+ },
+ {
+  "Text": "Hibiscus 38%, apple, sweet blackberry leaf, natural flavouring, rosehip, orange peel, vitamin B6 2% (0.4%), blueberry 1%, blackberry 1%, elderberry, raspberry 1% (ING for 782 & 783)",
+  "Version": 1,
+  "Translation Id": "784",
+  "Translation": null
+ },
+ {
+  "Text": "Lemon & Turmeric Defence, Fruit & Herbal Infusion (EU)",
+  "Version": 1,
+  "Translation Id": "785",
+  "Translation": null
+ },
+ {
+  "Text": "Lemon & Turmeric Defence (NON EU)",
+  "Version": 1,
+  "Translation Id": "786",
+  "Translation": null
+ },
+ {
+  "Text": "Lemongrass 37%, turmeric 20%, ginger 10%, liquorice, lemon peel 10%, cinnamon, natural flavouring (ING for 785 & 786)",
+  "Version": 1,
+  "Translation Id": "787",
+  "Translation": null
+ },
+ {
+  "Text": "Peppermint & Fennel Cleanse, Herbal Infusion (EU)",
+  "Version": 1,
+  "Translation Id": "788",
+  "Translation": null
+ },
+ {
+  "Text": "Peppermint & Fennel Cleanse (NON EU)",
+  "Version": 1,
+  "Translation Id": "789",
+  "Translation": null
+ },
+ {
+  "Text": "Sweet Mint Digest, Herbal Infusion (EU)",
+  "Version": 1,
+  "Translation Id": "790",
+  "Translation": null
+ },
+ {
+  "Text": "Sweet Mint Digest (NON EU)",
+  "Version": 1,
+  "Translation Id": "791",
+  "Translation": null
+ },
+ {
+  "Text": "Sweet Mint Herbal infusion (EU)",
+  "Version": 1,
+  "Translation Id": "792",
+  "Translation": null
+ },
+ {
+  "Text": "Sweet Mint (NON EU)",
+  "Version": 1,
+  "Translation Id": "793",
+  "Translation": null
+ },
+ {
+  "Text": "Vitamin C contributes to the normal function of the immune system.\u00a0 Enjoy 3 cups per day as part of a varied and balanced diet and healthy lifestyle. (Immune Claim Info.)",
+  "Version": 1,
+  "Translation Id": "794",
+  "Translation": null
+ },
+ {
+  "Text": "Mate contributes to weight management.\u00a0 Enjoy 3 cups per day as part of a varied and balanced diet and healthy lifestyle.   (Slim Claim Info.)",
+  "Version": 1,
+  "Translation Id": "795",
+  "Translation": null
+ },
+ {
+  "Text": "Vitamin B6 contributes to the reduction of tiredness and fatigue.\u00a0 Enjoy 3 cups per day as part of a varied and balanced diet and healthy lifestyle.   (Energy Claim Info.)",
+  "Version": 1,
+  "Translation Id": "796",
+  "Translation": null
+ },
+ {
+  "Text": "Spearmint helps support digestion.\u00a0 Enjoy 3 cups per day as part of a varied and balanced diet and healthy lifestyle.    (Digest Claim Info.)",
+  "Version": 1,
+  "Translation Id": "797",
+  "Translation": null
+ },
+ {
+  "Text": "Passion flower contributes to normal sleep.\u00a0 Enjoy 3 cups per day as part of a varied and balanced diet and healthy lifestyle.   (Sleep Claim Info.)",
+  "Version": 1,
+  "Translation Id": "798",
+  "Translation": null
+ },
+ {
+  "Text": "Aloe vera helps maintain healthy skin. Enjoy 3 cups per day as part of a varied and balanced diet and healthy lifestyle.   (Beauty Claim Info.)",
+  "Version": 1,
+  "Translation Id": "799",
+  "Translation": null
+ },
+ {
+  "Text": "Peppermint 14%, fennel 14%, rosemary 13%, birch leaves 10%,  nettle leaves 10%, liquorice 10%, ginger 10%, dandelion herb 10%, dandelion root 9%",
+  "Version": 1,
+  "Translation Id": "800",
+  "Translation": null
+ },
+ {
+  "Text": "Mixed Berry Boost Supplement Facts:\u00a01 Teabag makes 7fl oz. Amount per serving: proprietary blend of herbs 2g. Vitamin B6 0.26mg (15% DV), Hibiscus*, Apple*, Sweet Blackberry Leaf*, Rosehip*, Orange Peel*, Blueberry*, Blackberry*, Elderberry*, Raspberry*. * Daily value not established. Other ingredients: Natural Flavouring.\u00a0If you are pregnant or nursing, consult your health care practitioner first before using.",
+  "Version": 1,
+  "Translation Id": "801",
+  "Translation": null
+ },
+ {
+  "Text": "Lemon & Turmeric Defence Supplement Facts:\u00a01 Teabag makes 7fl oz. Amount per serving: proprietary blend of herbs 2g. Lemongrass*, Turmeric*, Ginger*, Liquorice*, Lemon Peel*, Cinnamon*. * Daily value not established. Other ingredients: Natural Flavouring.\u00a0If you are pregnant or nursing, consult your health care practitioner first before using.",
+  "Version": 1,
+  "Translation Id": "802",
+  "Translation": null
+ },
+ {
+  "Text": "Peppermint & Fennel Cleanse Supplement Facts:\u00a01 Teabag makes 7fl oz. Amount per serving: proprietary blend of herbs 2g. Peppermint*, Fennel*, Rosemary*, Birch Leaves*, Nettle Leaves*, Liquorice*, Ginger*, Dandelion Herb*, Dandelion Root*. * Daily value not established.\u00a0If you are pregnant or nursing, consult your health care practitioner first before using.",
+  "Version": 1,
+  "Translation Id": "803",
+  "Translation": null
+ },
+ {
+  "Text": "Sweet Mint Digest Supplement Facts:\u00a01 Teabag makes 7fl oz. Amount per serving: proprietary blend of herbs 1.5g. Spearmint Leaves*, Peppermint Leaves*, Liquorice Root*, Fennel*. * Daily value not established.\u00a0If you are pregnant or nursing, consult your health care practitioner first before using.",
+  "Version": 1,
+  "Translation Id": "804",
+  "Translation": null
+ },
+ {
+  "Text": "Claim for Mixed Berry Boost:\u00a0Vitamin B6 contributes to the reduction of tiredness and fatigue.  Enjoy 3 cups per day as part of a varied and balanced diet and healthy lifestyle.",
+  "Version": 1,
+  "Translation Id": "805",
+  "Translation": null
+ },
+ {
+  "Text": "Claim for Lemon & Turmeric Defence:\u00a0Liquorice contributes to physical wellbeing. Enjoy 3 cups per day as part of a varied and balanced diet and healthy lifestyle.",
+  "Version": 1,
+  "Translation Id": "806",
+  "Translation": null
+ },
+ {
+  "Text": "Claim for Peppermint & Fennel Cleanse:\u00a0Fennel supports detoxification systems. Enjoy 3 cups per day as part of a varied and balanced diet and healthy lifestyle.",
+  "Version": 1,
+  "Translation Id": "807",
+  "Translation": null
+ },
+ {
+  "Text": "Claim for Sweet Mint Digest:\u00a0Spearmint helps support digestion. Enjoy 3 cups per day as part of a varied and balanced diet and healthy lifestyle.",
+  "Version": 1,
+  "Translation Id": "808",
+  "Translation": null
+ },
+ {
+  "Text": "Scottish Breakfast, black tea",
+  "Version": 1,
+  "Translation Id": "809",
+  "Translation": null
+ },
+ {
+  "Text": "A selection of black tea, flavoured black tea,and herbal infusion",
+  "Version": 1,
+  "Translation Id": "810",
+  "Translation": null
+ },
+ {
+  "Text": "Lemon Balm herbal infusion",
+  "Version": 1,
+  "Translation Id": "811",
+  "Translation": null
+ },
+ {
+  "Text": "100% Lemnon Balm",
+  "Version": 1,
+  "Translation Id": "812",
+  "Translation": null
+ },
+ {
+  "Text": "Apple, Spearmint 28%, Chicory root, Orange peel, Rosehip, flavoring 4.5%, Stevia, Beetroot, Melon juice granules 0.1% (Ingredients for Watermelon and Mint Cold Brew) ",
+  "Version": 1,
+  "Translation Id": "813",
+  "Translation": null
+ },
+ {
+  "Text": "Extra Strong",
+  "Version": 1,
+  "Translation Id": "814",
+  "Translation": null
+ },
+ {
+  "Text": "Cardamom & Orange Flavoured Black Tea",
+  "Version": 1,
+  "Translation Id": "815",
+  "Translation": null
+ },
+ {
+  "Text": "Mango and Orange Fruit & Herbal Infusion",
+  "Version": 1,
+  "Translation Id": "816",
+  "Translation": null
+ },
+ {
+  "Text": "Apple pomace, White Hibiscus, Rosehip, Lemon balm leaves, Hibiscus, Natural Flavouring 7%, Orange Peels 3%, Stevia Leaves, Star anise, Liquorice, Mango juice granules 0.1% (Ingredients for Mango and Orange Fruit & Herbal Infusion) ",
+  "Version": 1,
+  "Translation Id": "817",
+  "Translation": null
+ },
+ {
+  "Text": "Blueberry and Cinnamon Fruit & Herbal Infusion",
+  "Version": 1,
+  "Translation Id": "818",
+  "Translation": null
+ },
+ {
+  "Text": "Hibiscus, Apple Pomace, Rosehip, Orange Peels, Apple, Chicory root roasted, Natural Flavouring 4.7%, Cinnamon 2.0%, Stevia Leaves, Blueberries 0.1% (Ingredients for Blueberry and Cinnamon Fruit & Herbal Infusion) ",
+  "Version": 1,
+  "Translation Id": "819",
+  "Translation": null
+ },
+ {
+  "Text": "Green loose tea, Cardamom flavouring (INFORMATION LOOSE)",
+  "Version": 1,
+  "Translation Id": "820",
+  "Translation": null
+ },
+ {
+  "Text": "Green tea, mint leaves, lemon balm and lemongrass (Ingredients for Mint & Melissa Embrace)",
+  "Version": 1,
+  "Translation Id": "821",
+  "Translation": null
+ },
+ {
+  "Text": "Mint and Melissa Embrace",
+  "Version": 1,
+  "Translation Id": "822",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, orange blossom flavouring ",
+  "Version": 1,
+  "Translation Id": "823",
+  "Translation": null
+ },
+ {
+  "Text": "Anise",
+  "Version": 1,
+  "Translation Id": "824",
+  "Translation": null
+ },
+ {
+  "Text": "Anise herbal infusion",
+  "Version": 1,
+  "Translation Id": "825",
+  "Translation": null
+ },
+ {
+  "Text": "From non-EU (Tea Origin)",
+  "Version": 1,
+  "Translation Id": "826",
+  "Translation": null
+ },
+ {
+  "Text": "Organic Japanese Matcha Green Tea",
+  "Version": 1,
+  "Translation Id": "827",
+  "Translation": null
+ },
+ {
+  "Text": "Classic Grey",
+  "Version": 1,
+  "Translation Id": "828",
+  "Translation": null
+ },
+ {
+  "Text": "Tea Origin: China",
+  "Version": 1,
+  "Translation Id": "829",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, apricot flavouring, 2% apricot",
+  "Version": 1,
+  "Translation Id": "830",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, blackcurrant flavouring, 2% blackcurrant",
+  "Version": 1,
+  "Translation Id": "831",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, cinnamon flavouring, 2% cinnamon",
+  "Version": 1,
+  "Translation Id": "832",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, lemon and lime flavouring, 1% lemon peel, 1% lime peel",
+  "Version": 1,
+  "Translation Id": "833",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, raspberry flavouring, 1% raspberry",
+  "Version": 1,
+  "Translation Id": "834",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, strawberry flavouring, 1% strawberry",
+  "Version": 1,
+  "Translation Id": "835",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, vanilla flavouring, 1% vanilla pods",
+  "Version": 1,
+  "Translation Id": "836",
+  "Translation": null
+ },
+ {
+  "Text": "Majestic Breakfast",
+  "Version": 1,
+  "Translation Id": "837",
+  "Translation": null
+ },
+ {
+  "Text": "Garden Afternoon",
+  "Version": 1,
+  "Translation Id": "838",
+  "Translation": null
+ },
+ {
+  "Text": "Elegant Earl Grey",
+  "Version": 1,
+  "Translation Id": "839",
+  "Translation": null
+ },
+ {
+  "Text": "Splendid Ceylon",
+  "Version": 1,
+  "Translation Id": "840",
+  "Translation": null
+ },
+ {
+  "Text": "Ceylon Tea High Mountain",
+  "Version": 1,
+  "Translation Id": "841",
+  "Translation": null
+ },
+ {
+  "Text": "Earl Grey Cold Brew Iced Black Tea  (BLEND NAME)",
+  "Version": 1,
+  "Translation Id": "842",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, natural tea flavouring, bergamot flavouring (INGREDIENTS)",
+  "Version": 1,
+  "Translation Id": "843",
+  "Translation": null
+ },
+ {
+  "Text": "Packed in German and RAK",
+  "Version": 1,
+  "Translation Id": "844",
+  "Translation": null
+ },
+ {
+  "Text": "Decaffeinated tea, banana and caramel flavouring",
+  "Version": 1,
+  "Translation Id": "845",
+  "Translation": null
+ },
+ {
+  "Text": "Decaffeinated black tea, chocolate flavouring, hazelnut flavouring (\ufeffHazelnut & Chocolate ingredients)",
+  "Version": 1,
+  "Translation Id": "846",
+  "Translation": null
+ },
+ {
+  "Text": "Decaffeinated black tea, cinnamon flavouring,  black pepper 4% (Cinnamon Spice ingredients)",
+  "Version": 1,
+  "Translation Id": "847",
+  "Translation": null
+ },
+ {
+  "Text": "Decaffeinated black tea, vanilla flavouring, vanilla 2% (Vanilla Tranquillity ingredients)",
+  "Version": 1,
+  "Translation Id": "848",
+  "Translation": null
+ },
+ {
+  "Text": "Decaffeinated black tea, caramel flavouring, cinnamon flavouring (Sweet Caramel ingredients)",
+  "Version": 1,
+  "Translation Id": "849",
+  "Translation": null
+ },
+ {
+  "Text": "Tunisia Importer - El Madina",
+  "Version": 1,
+  "Translation Id": "850",
+  "Translation": null
+ },
+ {
+  "Text": "Decaffeinated black tea",
+  "Version": 1,
+  "Translation Id": "851",
+  "Translation": null
+ },
+ {
+  "Text": "Decaffeinated green tea",
+  "Version": 1,
+  "Translation Id": "852",
+  "Translation": null
+ },
+ {
+  "Text": "A selection of decaffeinated flavoured black tea",
+  "Version": 1,
+  "Translation Id": "853",
+  "Translation": null
+ },
+ {
+  "Text": "Decaffeinated flavoured black tea",
+  "Version": 1,
+  "Translation Id": "854",
+  "Translation": null
+ },
+ {
+  "Text": "with orange blossom aroma",
+  "Version": 1,
+  "Translation Id": "855",
+  "Translation": null
+ },
+ {
+  "Text": "Paradise Blend, flavoured black tea",
+  "Version": 1,
+  "Translation Id": "856",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, bergamot flavouring, orange blossom flavouring",
+  "Version": 1,
+  "Translation Id": "857",
+  "Translation": null
+ },
+ {
+  "Text": "Long leaf black tea with orange blossom and bergamot flavouring (Paradise Blend Tea information)",
+  "Version": 1,
+  "Translation Id": "858",
+  "Translation": null
+ },
+ {
+  "Text": "Green Tea, Lemon Verbena 20%, Lemon flavouring 7%, Lemon Peel 3%, Lime Peel",
+  "Version": 1,
+  "Translation Id": "859",
+  "Translation": null
+ },
+ {
+  "Text": "Lemon-Flavoured Green Tea with Lemon Verbena",
+  "Version": 1,
+  "Translation Id": "860",
+  "Translation": null
+ },
+ {
+  "Text": "Made in U.A.E",
+  "Version": 1,
+  "Translation Id": "861",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, Clove flavouring 1%, Clove pieces 1% (Clove Tea loose blend - Ingredient)",
+  "Version": 1,
+  "Translation Id": "862",
+  "Translation": null
+ },
+ {
+  "Text": "Clove flavoured black tea  (Clove Tea loose blend - Legal Blend name)",
+  "Version": 1,
+  "Translation Id": "863",
+  "Translation": null
+ },
+ {
+  "Text": "Green tea, natural jasmine flavouring ",
+  "Version": 1,
+  "Translation Id": "864",
+  "Translation": null
+ },
+ {
+  "Text": "Jasmine flavoured green tea",
+  "Version": 1,
+  "Translation Id": "865",
+  "Translation": null
+ },
+ {
+  "Text": "A selection of flavoured cold brew iced black & green teas",
+  "Version": 1,
+  "Translation Id": "866",
+  "Translation": null
+ },
+ {
+  "Text": "Everyday Tea",
+  "Version": 1,
+  "Translation Id": "867",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea, natural mint flavouring, spearmint",
+  "Version": 1,
+  "Translation Id": "868",
+  "Translation": null
+ },
+ {
+  "Text": "Black tea flavoured with mint",
+  "Version": 1,
+  "Translation Id": "869",
+  "Translation": null
+ },
+ {
+  "Text": "Celebration Blend, Black tea with orange blossom and bergamot flavouring",
+  "Version": 1,
+  "Translation Id": "870",
+  "Translation": null
+ },
+ {
+  "Text": "A selection of black tea, green tea and fruit & herbal infusions",
+  "Version": 1,
+  "Translation Id": "871",
+  "Translation": null
+ },
+ {
+  "Text": "Green tea, flavoured green tea, black tea, flavoured black tea and fruit & herbal infusions",
+  "Version": 1,
+  "Translation Id": "872",
+  "Translation": null
+ },
+ {
+  "Text": "Contains permitted flavouring substance",
+  "Version": 1,
+  "Translation Id": "873",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "874",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "875",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "876",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "877",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "878",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "879",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "880",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "881",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "882",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "883",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "884",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "885",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "886",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "887",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "888",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "889",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "890",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "891",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "892",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "893",
+  "Translation": null
+ },
+ {
+  "Text": null,
+  "Version": 1,
+  "Translation Id": "894",
+  "Translation": null
+ }
+]

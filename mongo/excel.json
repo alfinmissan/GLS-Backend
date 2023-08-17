@@ -1,0 +1,262 @@
+[
+ {
+  "name": "ITALIAN",
+  "code": "IT"
+ },
+ {
+  "name": "SPANISH",
+  "code": "ES"
+ },
+ {
+  "name": "SPANISH Basic",
+  "code": "ES Basic"
+ },
+ {
+  "name": "FRENCH",
+  "code": "FR"
+ },
+ {
+  "name": "FRENCH Basic",
+  "code": "FR Basic"
+ },
+ {
+  "name": "RUSSIAN",
+  "code": "RU"
+ },
+ {
+  "name": "RUSSIAN Basic",
+  "code": "RU Basic"
+ },
+ {
+  "name": "UKRAIN",
+  "code": "UA"
+ },
+ {
+  "name": "PORTUGUESE",
+  "code": "PT"
+ },
+ {
+  "name": "PORTUGUESE Basic",
+  "code": "PT Basic"
+ },
+ {
+  "name": "GERMEN",
+  "code": "DE"
+ },
+ {
+  "name": "CZECH",
+  "code": "CZ"
+ },
+ {
+  "name": "GREEK",
+  "code": "GR"
+ },
+ {
+  "name": "KAZAKH",
+  "code": "KZ"
+ },
+ {
+  "name": "POLISH",
+  "code": "PL"
+ },
+ {
+  "name": "LATVIAN",
+  "code": "LV"
+ },
+ {
+  "name": "UZBEK",
+  "code": "UZ"
+ },
+ {
+  "name": "ROMANIAN",
+  "code": "RO"
+ },
+ {
+  "name": "MOLDOVIAN",
+  "code": "MD"
+ },
+ {
+  "name": "LITHUANIAN",
+  "code": "LT"
+ },
+ {
+  "name": "ESTONIAN",
+  "code": "EE"
+ },
+ {
+  "name": "GEORGIAN",
+  "code": "GE"
+ },
+ {
+  "name": "TURKISH",
+  "code": "TR"
+ },
+ {
+  "name": "ARABIC",
+  "code": "A"
+ },
+ {
+  "name": "PERSIAN",
+  "code": "IR"
+ },
+ {
+  "name": "CHINESE",
+  "code": "CN"
+ },
+ {
+  "name": "BELORUSSIAN",
+  "code": "BY"
+ },
+ {
+  "name": "MALAYSIAN",
+  "code": "MY"
+ },
+ {
+  "name": "ARMANIAN",
+  "code": "AM"
+ },
+ {
+  "name": "AZERBAIJAN",
+  "code": "AZ"
+ },
+ {
+  "name": "SWEDISH",
+  "code": "SE"
+ },
+ {
+  "name": "INDONESIAN",
+  "code": "ID"
+ },
+ {
+  "name": "AUSTRALIAN",
+  "code": "AU"
+ },
+ {
+  "name": "SLOVAKIAN",
+  "code": "SK"
+ },
+ {
+  "name": "NEW ZEALAND",
+  "code": "NZ"
+ },
+ {
+  "name": "NIGERIAN",
+  "code": "NG"
+ },
+ {
+  "name": "ARGENTINA",
+  "code": "AR"
+ },
+ {
+  "name": "NOWEGIAN",
+  "code": "NO"
+ },
+ {
+  "name": "BULGARIAN",
+  "code": "BG"
+ },
+ {
+  "name": "ENGLISH",
+  "code": "GB"
+ },
+ {
+  "name": "TAJIKISTAN",
+  "code": "TJ"
+ },
+ {
+  "name": "FINLAND",
+  "code": "FI"
+ },
+ {
+  "name": "ANGOLA",
+  "code": "AO"
+ },
+ {
+  "name": "CROATIAN",
+  "code": "HR"
+ },
+ {
+  "name": "BRAZIL",
+  "code": "BR"
+ },
+ {
+  "name": "HINDI",
+  "code": "IN"
+ },
+ {
+  "name": "URDU",
+  "code": "PK"
+ },
+ {
+  "name": "DUTCH",
+  "code": "NL"
+ },
+ {
+  "name": "SLOVENIAN",
+  "code": "SI"
+ },
+ {
+  "name": "DENMARK",
+  "code": "DK"
+ },
+ {
+  "name": "SERBIA",
+  "code": "RS"
+ },
+ {
+  "name": "Cyprus",
+  "code": "CY"
+ },
+ {
+  "name": "Syria",
+  "code": "SY"
+ },
+ {
+  "name": "Saudi",
+  "code": "SA"
+ },
+ {
+  "name": "Qatar",
+  "code": "QA"
+ },
+ {
+  "name": "Tunisia",
+  "code": "TN"
+ },
+ {
+  "name": "Morrocco",
+  "code": "MA"
+ },
+ {
+  "name": "Pakistan",
+  "code": "PK"
+ },
+ {
+  "name": "Iran",
+  "code": "IR"
+ },
+ {
+  "name": "Lebanon",
+  "code": "LB"
+ },
+ {
+  "name": "Libya",
+  "code": "LY"
+ },
+ {
+  "name": "Japanese",
+  "code": "JP"
+ },
+ {
+  "name": "Egypt",
+  "code": "EG"
+ },
+ {
+  "name": "United Arab Emirates",
+  "code": "AE"
+ },
+ {
+  "name": "Sri Lanka",
+  "code": "LK"
+ }
+]

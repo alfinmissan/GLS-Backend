@@ -1,0 +1,30 @@
+[
+ {
+  "requirement": "Tea Information ",
+  "type": "Translation-ID",
+  "value": "183-Black tea, small size leaf, bergamot flavouring, teabags _ x_g",
+  "category": "tea bag",
+  "country": "Russia,"
+ },
+ {
+  "requirement": "Tea Information ",
+  "type": "Plain-text",
+  "value": "None",
+  "category": "tea bag",
+  "country": "Great Britain,"
+ },
+ {
+  "requirement": "Food additive statement",
+  "type": "Translation-ID",
+  "value": "873-Contains permitted flavouring substance",
+  "category": "loose tea",
+  "country": "Malaysia,"
+ },
+ {
+  "requirement": "Tea Information ",
+  "type": "Translation-ID",
+  "value": "169a-Black loose tea, flavoured with bergamot.",
+  "category": "tea bag",
+  "country": "Russia,"
+ }
+]

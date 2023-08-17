@@ -1,0 +1,32 @@
+[
+ {
+  "requirement": "Gross Weight",
+  "type": "Translation-ID",
+  "value": "117-Gross Weight",
+  "country": "Italy,Germany,Portugal,"
+ },
+ {
+  "requirement": "Supplement panel",
+  "type": "Plain-text",
+  "value": "TEST",
+  "country": "Italy,Denmark,"
+ },
+ {
+  "requirement": "New weight",
+  "type": "Translation-ID",
+  "value": "1-Net Weight",
+  "country": "Spain,"
+ },
+ {
+  "requirement": "Packing Date",
+  "type": "Translation-ID",
+  "value": "3b-Packing Date(sl)",
+  "country": "Spain,Poland,"
+ },
+ {
+  "requirement": "test 18",
+  "type": "Translation-ID",
+  "value": "895-Test Soft Tea",
+  "country": "Poland,"
+ }
+]

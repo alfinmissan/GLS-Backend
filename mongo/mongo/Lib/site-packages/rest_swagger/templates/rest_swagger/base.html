@@ -1,0 +1,68 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Swagger UI</title>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Source+Code+Pro:300,600|Titillium+Web:400,600,700" rel="stylesheet">
+    <link href="{% static 'rest_swagger/vendors.bundle.css' %}" rel="stylesheet" type="text/css">
+    <link href="{% static 'rest_swagger/app.bundle.css' %}" rel="stylesheet" type="text/css">
+    <link href="{% static 'rest_swagger/swagger.svg' %}">
+    {% block extra_styles %}
+    {% endblock %}
+</head>
+
+<body>
+    <div class="swagger-ui">
+   <div class="topbar">
+     <div class="wrapper">
+       <div class="topbar-wrapper">
+         <a href="#" class="link">
+           <img src="{% static 'rest_swagger/logo.svg'%}">
+         </a>
+         <div class="download-url-wrapper">
+         {% if USE_SESSION_AUTH %}
+           {% if request.user.is_authenticated %}
+           <a class="download-url-button button" href="{{ LOGOUT_URL }}?next={{ request.path }}">Logout</a>
+           {% else %}
+           <a class="download-url-button button" href="{{ LOGIN_URL }}?next={{ request.path }}">Session Login</a>
+           {% endif %}
+         {% endif %}
+         </div>
+       </div>
+     </div>
+   </div>
+   {% if USE_SESSION_AUTH %}
+   <div class="user-context wrapper">
+     {% block user_context_message %}
+       {% if request.user.is_authenticated %}
+         You are logged in as:<strong>{{ request.user }}</strong>
+       {% else %}
+          Viewing as an anonymous user
+      {% endif %}
+     {% endblock %}
+   </div>
+   {% endif %}
+ </div>
+
+ <div id="rest-swagger-ui"></div>
+ {% csrf_token %}
+
+ <footer class="swagger-ui">
+   <div class="wrapper">
+     Powered by<a href="https://github.com/AjibsBaba/rest-swagger" target="_new">AjibsBaba</a>
+   </div>
+ </footer>
+
+ <script>
+   window.drsSettings = {{ drs_settings|safe }};
+   window.drsSpec = {{ spec|safe }};
+ </script>
+ <script src="{% static 'rest_swagger/vendors.bundle.js' %}"></script>
+ <script src="{% static 'rest_swagger/app.bundle.js' %}"></script>
+ {% block extra_scripts %}
+ {# -- Add any additional scripts here -- #}
+ {% endblock %}
+</body>
+
+</html>

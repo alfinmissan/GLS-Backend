@@ -1,0 +1,735 @@
+swagger: '2.0'
+info:
+  title: Snippets API
+  description: Test description
+  termsOfService: https://www.google.com/policies/terms/
+  contact:
+    email: contact@snippets.local
+  license:
+    name: BSD License
+  version: v1
+host: 127.0.0.1:8000
+schemes:
+  - http
+basePath: /
+consumes:
+  - application/json
+produces:
+  - application/json
+  - application/coreapi+json
+  - application/openapi+json
+securityDefinitions:
+  Basic:
+    type: basic
+security:
+  - Basic: []
+paths:
+  /assets:
+    get:
+      operationId: assets_list
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          description: ''
+      tags:
+        - assets
+    post:
+      operationId: assets_create
+      description: ''
+      parameters: []
+      responses:
+        '201':
+          description: ''
+      tags:
+        - assets
+    put:
+      operationId: assets_update
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          description: ''
+      tags:
+        - assets
+    delete:
+      operationId: assets_delete
+      description: ''
+      parameters: []
+      responses:
+        '204':
+          description: ''
+      tags:
+        - assets
+    parameters: []
+  /auth/:
+    post:
+      operationId: auth_create
+      description: ''
+      parameters:
+        - name: data
+          in: body
+          required: true
+          schema:
+            $ref: '#/definitions/AuthToken'
+      responses:
+        '201':
+          description: ''
+          schema:
+            $ref: '#/definitions/AuthToken'
+      produces:
+        - application/json
+      tags:
+        - auth
+    parameters: []
+  /blend:
+    get:
+      operationId: blend_list
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          description: ''
+      tags:
+        - blend
+    post:
+      operationId: blend_create
+      description: ''
+      parameters: []
+      responses:
+        '201':
+          description: ''
+      tags:
+        - blend
+    put:
+      operationId: blend_update
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          description: ''
+      tags:
+        - blend
+    delete:
+      operationId: blend_delete
+      description: ''
+      parameters: []
+      responses:
+        '204':
+          description: ''
+      tags:
+        - blend
+    parameters: []
+  /category:
+    get:
+      operationId: category_list
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          description: ''
+      tags:
+        - category
+    post:
+      operationId: category_create
+      description: ''
+      parameters: []
+      responses:
+        '201':
+          description: ''
+      tags:
+        - category
+    delete:
+      operationId: category_delete
+      description: ''
+      parameters: []
+      responses:
+        '204':
+          description: ''
+      tags:
+        - category
+    parameters: []
+  /country:
+    get:
+      operationId: country_list
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          description: ''
+      tags:
+        - country
+    post:
+      operationId: country_create
+      description: ''
+      parameters: []
+      responses:
+        '201':
+          description: ''
+      tags:
+        - country
+    put:
+      operationId: country_update
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          description: ''
+      tags:
+        - country
+    delete:
+      operationId: country_delete
+      description: ''
+      parameters: []
+      responses:
+        '204':
+          description: ''
+      tags:
+        - country
+    parameters: []
+  /factory:
+    get:
+      operationId: factory_list
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          description: ''
+      tags:
+        - factory
+    post:
+      operationId: factory_create
+      description: ''
+      parameters: []
+      responses:
+        '201':
+          description: ''
+      tags:
+        - factory
+    put:
+      operationId: factory_update
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          description: ''
+      tags:
+        - factory
+    delete:
+      operationId: factory_delete
+      description: ''
+      parameters: []
+      responses:
+        '204':
+          description: ''
+      tags:
+        - factory
+    parameters: []
+  /grid:
+    get:
+      operationId: grid_list
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          description: ''
+      tags:
+        - grid
+    post:
+      operationId: grid_create
+      description: ''
+      parameters: []
+      responses:
+        '201':
+          description: ''
+      tags:
+        - grid
+    put:
+      operationId: grid_update
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          description: ''
+      tags:
+        - grid
+    delete:
+      operationId: grid_delete
+      description: ''
+      parameters: []
+      responses:
+        '204':
+          description: ''
+      tags:
+        - grid
+    parameters: []
+  /ingredient:
+    get:
+      operationId: ingredient_list
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          description: ''
+      tags:
+        - ingredient
+    post:
+      operationId: ingredient_create
+      description: ''
+      parameters: []
+      responses:
+        '201':
+          description: ''
+      tags:
+        - ingredient
+    put:
+      operationId: ingredient_update
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          description: ''
+      tags:
+        - ingredient
+    delete:
+      operationId: ingredient_delete
+      description: ''
+      parameters:
+        in: body
+        required: true
+      responses:
+        '204':
+          description: ''
+      tags:
+        - ingredient
+    parameters: []
+  /lang:
+    get:
+      operationId: lang_list
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          description: ''
+      tags:
+        - lang
+    post:
+      operationId: lang_create
+      description: ''
+      parameters: []
+      responses:
+        '201':
+          description: ''
+      tags:
+        - lang
+    put:
+      operationId: lang_update
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          description: ''
+      tags:
+        - lang
+    delete:
+      operationId: lang_delete
+      description: ''
+      parameters: []
+      responses:
+        '204':
+          description: ''
+      tags:
+        - lang
+    parameters: []
+  /legalName:
+    get:
+      operationId: legalName_list
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          description: ''
+      tags:
+        - legalName
+    post:
+      operationId: legalName_create
+      description: ''
+      parameters: []
+      responses:
+        '201':
+          description: ''
+      tags:
+        - legalName
+    put:
+      operationId: legalName_update
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          description: ''
+      tags:
+        - legalName
+    delete:
+      operationId: legalName_delete
+      description: ''
+      parameters: []
+      responses:
+        '204':
+          description: ''
+      tags:
+        - legalName
+    parameters: []
+  /mastercode:
+    get:
+      operationId: mastercode_list
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          description: ''
+      tags:
+        - mastercode
+    post:
+      operationId: mastercode_create
+      description: ''
+      parameters: []
+      responses:
+        '201':
+          description: ''
+      tags:
+        - mastercode
+    put:
+      operationId: mastercode_update
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          description: ''
+      tags:
+        - mastercode
+    delete:
+      operationId: mastercode_delete
+      description: ''
+      parameters: []
+      responses:
+        '204':
+          description: ''
+      tags:
+        - mastercode
+    parameters: []
+  /range:
+    get:
+      operationId: range_list
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          description: ''
+      tags:
+        - range
+    post:
+      operationId: range_create
+      description: ''
+      parameters: []
+      responses:
+        '201':
+          description: ''
+      tags:
+        - range
+    delete:
+      operationId: range_delete
+      description: ''
+      parameters: []
+      responses:
+        '204':
+          description: ''
+      tags:
+        - range
+    parameters: []
+  /req:
+    post:
+      operationId: req_create
+      description: ''
+      parameters: []
+      responses:
+        '201':
+          description: ''
+      tags:
+        - req
+    put:
+      operationId: req_update
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          description: ''
+      tags:
+        - req
+    delete:
+      operationId: req_delete
+      description: ''
+      parameters: []
+      responses:
+        '204':
+          description: ''
+      tags:
+        - req
+    parameters: []
+  /req/view:
+    get:
+      operationId: req_view_list
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          description: ''
+      tags:
+        - req
+    post:
+      operationId: req_view_create
+      description: ''
+      parameters: []
+      responses:
+        '201':
+          description: ''
+      tags:
+        - req
+    parameters: []
+  /tea/bag:
+    get:
+      operationId: tea_bag_list
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          description: ''
+      tags:
+        - tea
+    post:
+      operationId: tea_bag_create
+      description: ''
+      parameters: []
+      responses:
+        '201':
+          description: ''
+      tags:
+        - tea
+    delete:
+      operationId: tea_bag_delete
+      description: ''
+      parameters: []
+      responses:
+        '204':
+          description: ''
+      tags:
+        - tea
+    parameters: []
+  /translation:
+    get:
+      operationId: translation_list
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          description: ''
+      produces:
+        - application/openapi+json
+      tags:
+        - translation
+    post:
+      operationId: translation_create
+      description: ''
+      parameters: []
+      responses:
+        '201':
+          description: ''
+      produces:
+        - application/openapi+json
+      tags:
+        - translation
+    put:
+      operationId: translation_update
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          description: ''
+      produces:
+        - application/openapi+json
+      tags:
+        - translation
+    delete:
+      operationId: translation_delete
+      description: ''
+      parameters: []
+      responses:
+        '204':
+          description: ''
+      produces:
+        - application/openapi+json
+      tags:
+        - translation
+    parameters: []
+  /user/:
+    get:
+      operationId: user_list
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          description: ''
+          schema:
+            type: array
+            items:
+              $ref: '#/definitions/UserSerialiser'
+      tags:
+        - user
+    post:
+      operationId: user_create
+      description: ''
+      parameters:
+        - name: data
+          in: body
+          required: true
+          schema:
+            $ref: '#/definitions/UserSerialiser'
+      responses:
+        '201':
+          description: ''
+          schema:
+            $ref: '#/definitions/UserSerialiser'
+      tags:
+        - user
+    parameters: []
+  /user/{id}/:
+    get:
+      operationId: user_read
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          description: ''
+          schema:
+            $ref: '#/definitions/UserSerialiser'
+      tags:
+        - user
+    put:
+      operationId: user_update
+      description: ''
+      parameters:
+        - name: data
+          in: body
+          required: true
+          schema:
+            $ref: '#/definitions/UserSerialiser'
+      responses:
+        '200':
+          description: ''
+          schema:
+            $ref: '#/definitions/UserSerialiser'
+      tags:
+        - user
+    patch:
+      operationId: user_partial_update
+      description: ''
+      parameters:
+        - name: data
+          in: body
+          required: true
+          schema:
+            $ref: '#/definitions/UserSerialiser'
+      responses:
+        '200':
+          description: ''
+          schema:
+            $ref: '#/definitions/UserSerialiser'
+      tags:
+        - user
+    delete:
+      operationId: user_delete
+      description: ''
+      parameters: []
+      responses:
+        '204':
+          description: ''
+      tags:
+        - user
+    parameters:
+      - name: id
+        in: path
+        description: A unique integer value identifying this user.
+        required: true
+        type: integer
+definitions:
+  AuthToken:
+    required:
+      - username
+      - password
+    type: object
+    properties:
+      username:
+        title: Username
+        type: string
+        minLength: 1
+      password:
+        title: Password
+        type: string
+        minLength: 1
+      token:
+        title: Token
+        type: string
+        readOnly: true
+        minLength: 1
+  UserSerialiser:
+    required:
+      - username
+      - password
+      - first_name
+      - last_name
+      - email
+      - designation
+    type: object
+    properties:
+      username:
+        title: Username
+        description: Required. 150 characters or fewer. Letters, digits and @/./+/-/_
+          only.
+        type: string
+        pattern: ^[\w.@+-]+$
+        maxLength: 150
+        minLength: 1
+      password:
+        title: Password
+        type: string
+        maxLength: 128
+        minLength: 1
+      first_name:
+        title: First name
+        type: string
+        maxLength: 100
+        minLength: 1
+      last_name:
+        title: Last name
+        type: string
+        maxLength: 100
+        minLength: 1
+      email:
+        title: Email
+        type: string
+        format: email
+        maxLength: 100
+        minLength: 1
+      designation:
+        title: Designation
+        type: string
+        maxLength: 100
+        minLength: 1
+      is_admin:
+        title: Is admin
+        type: boolean
+      is_editor:
+        title: Is editor
+        type: boolean
+      is_viewer:
+        title: Is viewer
+        type: boolean

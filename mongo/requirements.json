@@ -1,0 +1,258 @@
+[
+ {
+  "Order": 1,
+  "Requirement": "Same field of vision (EU)",
+  "Type": "Plain-text",
+  "Value": "FOV",
+  "Country": "FR,DE,PT,CZ,SK,",
+  "Static requirement": "Yes"
+ },
+ {
+  "Order": 2,
+  "Requirement": "Size restriction",
+  "Type": "Plain-text",
+  "Value": "1.2mm",
+  "Country": "GB,FR,ES,IT,DE,PT,GR,CY,CZ,SK,PL,RO,LV,LT,EE,SE,NO,BG,FI,HR,SI,NL,DK,MD,",
+  "Static requirement": "Yes"
+ },
+ {
+  "Order": 3,
+  "Requirement": "Size restriction",
+  "Type": "Plain-text",
+  "Value": "0.8mm",
+  "Country": "RU,KZ,AM,",
+  "Static requirement": "Yes"
+ },
+ {
+  "Order": 4,
+  "Requirement": "Net weight",
+  "Type": "Translation-ID",
+  "Value": "1-Net Weight",
+  "Country": "GB,FR,ES,IT,DE,PT,GR,CZ,SK,PL,RO,LV,LT,EE,SE,NO,BG,HR,SI,NL,DK,KZ,AM,GE,RU,MD,UZ,ID,AZ,RS,A,IR,",
+  "Static requirement": "Yes"
+ },
+ {
+  "Order": 5,
+  "Requirement": "Net weight sizes",
+  "Type": "Plain-text",
+  "Value": "None",
+  "Country": "GB,FR,ES,IT,DE,PT,GR,CY,CZ,SK,PL,RO,MD,LV,LT,EE,SE,NO,BG,FI,HR,SI,NL,DK,RU,KZ,AM,",
+  "Static requirement": "Yes"
+ },
+ {
+  "Order": 6,
+  "Requirement": "The word ingredients",
+  "Type": "Translation-ID",
+  "Value": "2-Ingredients",
+  "Country": "GB,FR,ES,IT,DE,PT,GR,CZ,SK,PL,RO,LV,LT,EE,SE,NO,BG,FI,HR,SI,NL,DK,RU,KZ,MD,AZ,RS,A,PK,IR,",
+  "Static requirement": "Yes"
+ },
+ {
+  "Order": 7,
+  "Requirement": "Ingredients",
+  "Type": "Translation-ID",
+  "Value": "",
+  "Country": "GB,FR,ES,IT,DE,PT,GR,CZ,SK,PL,RO,LV,LT,EE,SE,NO,BG,FI,HR,SI,NL,DK,RU,KZ,GE,MD,UZ,TJ,ID,AZ,RS,BR,A,IR,",
+  "Static requirement": "Yes"
+ },
+ {
+  "Order": 8,
+  "Requirement": "Packing Date",
+  "Type": "Translation-ID",
+  "Value": "3-Packing Date",
+  "Country": "GB,DE,CZ,SK,PL,RU,KZ,AM,GE,MD,UZ,AZ,A,PK,IR,",
+  "Static requirement": "Yes"
+ },
+ {
+  "Order": 9,
+  "Requirement": "Best Before",
+  "Type": "Translation-ID",
+  "Value": "4-Best Before",
+  "Country": "GB,FR,ES,IT,DE,PT,GR,CZ,SK,PL,RO,LV,LT,EE,SE,NO,BG,FI,HR,SI,NL,DK,RU,KZ,AM,GE,MD,UZ,ID,AZ,RS,A,PK,IR,",
+  "Static requirement": "Yes"
+ },
+ {
+  "Order": 10,
+  "Requirement": "Blend name/Legal name",
+  "Type": "Translation-ID",
+  "Value": "",
+  "Country": "GB,FR,ES,IT,DE,PT,GR,CZ,SK,PL,RO,LV,LT,EE,SE,NO,BG,FI,HR,SI,NL,DK,KZ,AM,GE,RU,MD,UZ,ID,AZ,RS,A,IR,",
+  "Static requirement": "Yes"
+ },
+ {
+  "Order": 11,
+  "Requirement": "Tea Information (Loose/Tea Bags)",
+  "Type": "Translation-ID",
+  "Value": "",
+  "Country": "RU,KZ,GE,A,",
+  "Static requirement": "Yes"
+ },
+ {
+  "Order": 12,
+  "Requirement": "Number of teabags",
+  "Type": "Translation-ID",
+  "Value": "22- ... x ...g Teabags (Tagged)",
+  "Country": "GB,AM,GE,MD,AZ,",
+  "Static requirement": "Yes"
+ },
+ {
+  "Order": 13,
+  "Requirement": "Brewing Instructions",
+  "Type": "Translation-ID",
+  "Value": "7-Brew for ...-... minutes",
+  "Country": "GB,FR,ES,IT,DE,PT,GR,CZ,SK,PL,RO,LV,LT,EE,SE,NO,BG,HR,SI,NL,DK,RU,KZ,AM,MD,UZ,RS,A,PK,IR,",
+  "Static requirement": "Yes"
+ },
+ {
+  "Order": 14,
+  "Requirement": "Storage Condition",
+  "Type": "Translation-ID",
+  "Value": "5-Store in a dry place",
+  "Country": "GB,CZ,SK,PL,HR,RU,KZ,AM,MD,UZ,AZ,RS,BR,A,IR,",
+  "Static requirement": "Yes"
+ },
+ {
+  "Order": 15,
+  "Requirement": "Packed in/Shipping Country/ Country of origin",
+  "Type": "Translation-ID",
+  "Value": "401-Packed in UAE",
+  "Country": "FR,ES,IT,DE,PT,GR,CZ,SK,PL,RO,LV,LT,EE,SE,NO,BG,FI,HR,SI,NL,DK,AM,GE,MD,UZ,A,",
+  "Static requirement": "Yes"
+ },
+ {
+  "Order": 16,
+  "Requirement": "Factory Address",
+  "Type": "Translation-ID",
+  "Value": "9",
+  "Country": "RU,KZ,BR,",
+  "Static requirement": "Yes"
+ },
+ {
+  "Order": 17,
+  "Requirement": "Producer/ Exporter (AT)",
+  "Type": "Translation-ID",
+  "Value": "6-Producer - Ahmad Tea Ltd. 1 Wood Street, London, EC2V 7WS England",
+  "Country": "GB,AM,GE,MD,AZ,RS,A,RU,",
+  "Static requirement": "Yes"
+ },
+ {
+  "Order": 18,
+  "Requirement": "Importer /Quality Issues",
+  "Type": "Translation-ID",
+  "Value": "8-Importer:",
+  "Country": "GB,FR,IT,DE,PT,GR,CZ,SK,PL,LV,LT,EE,SE,NO,BG,FI,HR,SI,NL,DK,AM,GE,BY,MD,UZ,TJ,MY,ID,AZ,AU,NZ,AO,RS,BR,EG,SY,TN,MA,LY,LB,SA,CY,",
+  "Static requirement": "Yes"
+ },
+ {
+  "Order": 19,
+  "Requirement": "Batch Number",
+  "Type": "Plain-text",
+  "Value": "Printed During production",
+  "Country": "PL,NG,RS,",
+  "Static requirement": "Yes"
+ },
+ {
+  "Order": 20,
+  "Requirement": "Registation Number - NAFDAC",
+  "Type": "Translation-ID",
+  "Value": "",
+  "Country": "NG,",
+  "Static requirement": "Yes"
+ },
+ {
+  "Order": 21,
+  "Requirement": "Registation Number - ML",
+  "Type": "Translation-ID",
+  "Value": "",
+  "Country": "ID,",
+  "Static requirement": "No"
+ },
+ {
+  "Order": 22,
+  "Requirement": "Food Additive statement",
+  "Type": "Translation-ID",
+  "Value": "873-Contains permitted flavouring substance",
+  "Country": "MY,",
+  "Static requirement": "Yes"
+ },
+ {
+  "Order": 23,
+  "Requirement": "Tea Origin",
+  "Type": "Translation-ID",
+  "Value": "826-From non-EU (Tea Origin)",
+  "Country": "DE,CZ,SK,HR,RS,",
+  "Static requirement": "Yes"
+ },
+ {
+  "Order": 24,
+  "Requirement": "Nutritional value",
+  "Type": "Translation-ID",
+  "Value": "",
+  "Country": "GB,FR,ES,IT,DE,PT,GR,CZ,SK,PL,RO,LV,LT,EE,SE,NO,BG,FI,HR,SI,NL,DK,SA,PK,",
+  "Static requirement": "No"
+ },
+ {
+  "Order": 25,
+  "Requirement": "Claim Information",
+  "Type": "Translation-ID",
+  "Value": "",
+  "Country": "GB,FR,ES,IT,DE,PT,GR,CZ,SK,PL,RO,LV,LT,EE,SE,NO,BG,FI,HR,SI,NL,DK,A,",
+  "Static requirement": "Yes"
+ },
+ {
+  "Order": 26,
+  "Requirement": "Supplement panel",
+  "Type": "Plain-text",
+  "Value": "GB",
+  "Country": "GB,",
+  "Static requirement": "Yes"
+ },
+ {
+  "Order": 27,
+  "Requirement": "Sales and customer service",
+  "Type": "Plain-text",
+  "Value": "GB",
+  "Country": "GB,",
+  "Static requirement": "Yes"
+ },
+ {
+  "Order": 28,
+  "Requirement": "Copyright",
+  "Type": "Plain-text",
+  "Value": "GB",
+  "Country": "GB,",
+  "Static requirement": "Yes"
+ },
+ {
+  "Order": 29,
+  "Requirement": "Ethical Tea partnership Logo",
+  "Type": "Symbol",
+  "Value": "None",
+  "Country": "GB,",
+  "Static requirement": "Yes"
+ },
+ {
+  "Order": 30,
+  "Requirement": "Great Taste Award Logo",
+  "Type": "Symbol",
+  "Value": "None",
+  "Country": "GB,",
+  "Static requirement": "Yes"
+ },
+ {
+  "Order": 31,
+  "Requirement": "E Symbol",
+  "Type": "Asset",
+  "Value": "image",
+  "Country": "ES,FR,IT,DE,PT,GR,CY,CZ,SK,PL,RO,LV,LT,EE,SE,NO,BG,FI,HR,SI,NL,DK,GB,",
+  "Static requirement": "Yes"
+ },
+ {
+  "Order": 32,
+  "Requirement": "Logos (EAC/Moldovan/KF/Halal)",
+  "Type": "Symbol",
+  "Value": "None",
+  "Country": "RU,KZ,AM,BY,TJ,",
+  "Static requirement": "No"
+ }
+]

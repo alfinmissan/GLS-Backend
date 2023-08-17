@@ -1,0 +1,390 @@
+[
+ {
+  "_id": {
+   "$oid": "64d3775674e63538046ff4bf"
+  },
+  "name": "Packing date - PL (packed in UAE)",
+  "mainLogc": [
+   "and",
+   false
+  ],
+  "subLogic": [
+   false
+  ],
+  "statement": [
+   [
+    {
+     "category": "language",
+     "condition": "is",
+     "value": "PL"
+    }
+   ],
+   [
+    {
+     "category": "factory",
+     "condition": "is",
+     "value": "AE"
+    }
+   ]
+  ],
+  "state": true,
+  "output": {
+   "requirement": "Packing Date",
+   "condition": "is",
+   "value": "3a"
+  }
+ },
+ {
+  "_id": {
+   "$oid": "64d3779f74e63538046ff4c0"
+  },
+  "name": "Packing Date PL (Packed in SL)",
+  "mainLogc": [
+   "and",
+   false
+  ],
+  "subLogic": [
+   false
+  ],
+  "statement": [
+   [
+    {
+     "category": "language",
+     "condition": "is",
+     "value": "PL"
+    }
+   ],
+   [
+    {
+     "category": "factory",
+     "condition": "is",
+     "value": "AE"
+    }
+   ]
+  ],
+  "state": true,
+  "output": {
+   "requirement": "Packing Date",
+   "condition": "is",
+   "value": "3b"
+  }
+ },
+ {
+  "_id": {
+   "$oid": "64d38458626426150eceed40"
+  },
+  "name": "GB producer for UAE factory",
+  "mainLogc": [
+   false
+  ],
+  "subLogic": [
+   "and"
+  ],
+  "statement": [
+   [
+    {
+     "category": "language",
+     "condition": "is",
+     "value": "GB"
+    },
+    {
+     "category": "factory",
+     "condition": "is",
+     "value": "AE"
+    }
+   ]
+  ],
+  "state": true,
+  "output": {
+   "requirement": "Producer/ Exporter (AT)",
+   "condition": "is",
+   "value": "685"
+  }
+ },
+ {
+  "_id": {
+   "$oid": "64d634ca3a0a12db6558cae6"
+  },
+  "name": "UAE Factory address for RU language",
+  "mainLogc": [
+   false
+  ],
+  "subLogic": [
+   "and"
+  ],
+  "statement": [
+   [
+    {
+     "category": "factory",
+     "condition": "is",
+     "value": "AE"
+    },
+    {
+     "category": "language",
+     "condition": "is",
+     "value": "RU"
+    }
+   ]
+  ],
+  "state": true,
+  "output": {
+   "requirement": "Factory Address",
+   "condition": "is",
+   "value": "9e"
+  }
+ },
+ {
+  "_id": {
+   "$oid": "64d9ee87386057ce281b0c55"
+  },
+  "name": "GE - Tea information teabag",
+  "mainLogc": [
+   "and",
+   "and",
+   false
+  ],
+  "subLogic": [
+   false,
+   false
+  ],
+  "statement": [
+   [
+    {
+     "category": "language",
+     "condition": "is",
+     "value": "GE"
+    }
+   ],
+   [
+    {
+     "category": "tea_form",
+     "condition": "is",
+     "value": "Tagged"
+    }
+   ],
+   [
+    {
+     "category": "range",
+     "condition": "is",
+     "value": "black tea"
+    }
+   ]
+  ],
+  "state": true,
+  "output": {
+   "requirement": "Tea Information (Loose/Tea Bags)",
+   "condition": "is",
+   "value": "13b"
+  }
+ },
+ {
+  "_id": {
+   "$oid": "64da027b5acf517e79dd8127"
+  },
+  "name": "Claim information for black and green tea",
+  "mainLogc": [
+   false
+  ],
+  "subLogic": [
+   "or"
+  ],
+  "statement": [
+   [
+    {
+     "category": "blend",
+     "condition": "is",
+     "value": "black tea"
+    },
+    {
+     "category": "blend",
+     "condition": "is",
+     "value": "green tea"
+    }
+   ]
+  ],
+  "state": true,
+  "output": {
+   "requirement": "Claim Information",
+   "condition": "is",
+   "value": ""
+  }
+ },
+ {
+  "_id": {
+   "$oid": "64da0b2913a65f4ad6a0b21d"
+  },
+  "name": "GB storage",
+  "mainLogc": [
+   false
+  ],
+  "subLogic": [
+   "and"
+  ],
+  "statement": [
+   [
+    {
+     "category": "language",
+     "condition": "is",
+     "value": "GB"
+    },
+    {
+     "category": "tea_form",
+     "condition": "is",
+     "value": "Tagged"
+    }
+   ]
+  ],
+  "state": true,
+  "output": {
+   "requirement": "Storage Condition",
+   "condition": "is",
+   "value": "5a"
+  }
+ },
+ {
+  "_id": {
+   "$oid": "64da0b8213a65f4ad6a0b25b"
+  },
+  "name": "PL - Packing date",
+  "mainLogc": [
+   false
+  ],
+  "subLogic": [
+   "and"
+  ],
+  "statement": [
+   [
+    {
+     "category": "language",
+     "condition": "is",
+     "value": "PL"
+    },
+    {
+     "category": "factory",
+     "condition": "is",
+     "value": "AE"
+    },
+    {
+     "category": "country",
+     "condition": "is",
+     "value": "PL"
+    }
+   ]
+  ],
+  "state": true,
+  "output": {
+   "requirement": "Packing Date",
+   "condition": "is",
+   "value": "3a"
+  }
+ },
+ {
+  "_id": {
+   "$oid": "64da107e13a65f4ad6a0b642"
+  },
+  "name": "Arabic storage",
+  "mainLogc": [
+   "and",
+   false
+  ],
+  "subLogic": [
+   "and",
+   false
+  ],
+  "statement": [
+   [
+    {
+     "category": "language",
+     "condition": "is",
+     "value": "A"
+    }
+   ],
+   [
+    {
+     "category": "tea_form",
+     "condition": "is",
+     "value": "Tagged"
+    }
+   ]
+  ],
+  "state": true,
+  "output": {
+   "requirement": "Storage Condition",
+   "condition": "is",
+   "value": "5a"
+  }
+ },
+ {
+  "_id": {
+   "$oid": "64dcbe9ba2f4589a31023895"
+  },
+  "name": "Nutrition values for black and green tea",
+  "mainLogc": [
+   false
+  ],
+  "subLogic": [
+   "or"
+  ],
+  "statement": [
+   [
+    {
+     "category": "blend",
+     "condition": "is",
+     "value": "black tea"
+    },
+    {
+     "category": "blend",
+     "condition": "is",
+     "value": "green tea"
+    }
+   ]
+  ],
+  "state": true,
+  "output": {
+   "requirement": "Nutritional value",
+   "condition": "is",
+   "value": ""
+  }
+ },
+ {
+  "_id": {
+   "$oid": "64de135bad6aa7d499e557cb"
+  },
+  "name": "GE tea information - Loose tea",
+  "mainLogc": [
+   "and",
+   false
+  ],
+  "subLogic": [
+   "and",
+   false
+  ],
+  "statement": [
+   [
+    {
+     "category": "country",
+     "condition": "is",
+     "value": "GE"
+    },
+    {
+     "category": "language",
+     "condition": "is",
+     "value": "GE"
+    }
+   ],
+   [
+    {
+     "category": "category",
+     "condition": "is",
+     "value": "loose tea"
+    }
+   ]
+  ],
+  "state": true,
+  "output": {
+   "requirement": "Tea Information (Loose/Tea Bags)",
+   "condition": "is",
+   "value": "26"
+  }
+ }
+]
